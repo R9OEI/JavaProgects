@@ -1,0 +1,9 @@
+.idea/
+out/
+*.log
+*.txt
+*.xml
+*.bat
+*.iml
+Rehearsal.exe
+TrenirovkaPoSWING.jar
