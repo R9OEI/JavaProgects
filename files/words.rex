@@ -1,1181 +1,1242 @@
-I  ъ
-YOU  рш
-SHE  нмю
-HE  нм
-IT  нмн
-WE  лш
-THEY  нмх
-ME  лме
-HER  е╗
-HIM  елс
-US  мюя
-THEM  хл
-MY  лни
-YOUR  рбни
-HIS  ецн
-ITS  ецн, е╗
-OUR  мюь
-THEIR  ху
-THIS  щрнр, щрн, щрю
-THESE  щрх
-THAT  рнр, рю, рн
-THOSE  ре
-ALL  бя╗
-EVERY  йюфдши
-ANY  кчани кчаюъ
-SOME  мейнрнпши
-OTHER  дпсцни
-NO  мер
-WHAT  врн
-WHO  йрн
-WHICH  йюйни
-WHOSE  веи
-PEOPLE  кчдх
-FAMILY  яелэъ
-WOMAN  фемыхмю
-MAN  лсфвхмю
-GIRL  дебнвйю
-BOY  люкэвхй
-CHILD  пеа╗мнй
-FRIEND  дпсц
-HUSBAND  лсф
-WIFE  фемю
-NAME  хлъ
-HEAD  цнкнбю
-FACE  кхжн
-HAND  псйю
-LIFE  фхгмэ
-HOUR  вюя
-WEEK  медекъ
-DAY  демэ
-NIGHT  мнвэ
-MONTH  леяъж
-YEAR  цнд
-TIME  бпелъ
-WORLD  лхп
-SUN  янкмже
-ANIMAL  фхбнрмне
-TREE  депебн
-WATER  бндю
-FOOD  едю
-FIRE  нцнмэ
-COUNTRY  ярпюмю
-CITY  цнпнд
-STREET  скхжю
-WORK  пюанрю
-SCHOOL  ьйнкю
-SHOP  люцюгхм
-HOUSE  днл
-ROOM  йнлмюрю
-CAR  юбрнлнахкэ
-PAPER  аслюцю
-PEN  псвйю
-DOOR  дбепэ
-CHAIR  ярск
-TABLE  ярнк
-MONEY  демэцх
-WAY  осрэ
-END  йнмеж
-PRICE  жемю
-QUESTION  бнопня
-ANSWER  нрбер
-NUMBER  мнлеп
-BE  ашрэ
-HAVE  хлерэ
-DO  декюрэ
-GET  онксвюрэ
-CAN  лнвэ
-FEEL  всбярбнбюрэ
-LIVE  фхрэ
-LOVE  кчахрэ
-WANT  унрерэ
-SAY  яйюгюрэ
-TELL  цнбнпхрэ
-SEE  бхдерэ
-HEAR  якшьюрэ
-LISTEN TO  яксьюрэ
-BELIEVE  бепхрэ
-TAKE  апюрэ
-GIVE  дюбюрэ
-GO  хдрх
-RUN  аефюрэ
-WALK  цскърэ
-COME  опхундхрэ
-LEAVE  онйхдюрэ
-SIT  яхдерэ
-STAND  ярнърэ
-MAKE  декюрэ
-KNOW  гмюрэ
-UNDERSTAND  онмхлюрэ
-REMEMBER  онлмхрэ
-THINK  дслюрэ
-BRING  опхмняхрэ
-FIND  мюундхрэ
-LOSE  репърэ
-USE  хяонкэгнбюрэ
-WORK  пюанрюрэ
-STUDY  свхрэяъ
-LEARN  свхрэ
-ASK  яопюьхбюрэ
-ANSWER  нрберхрэ
-LET  онгбнкърэ
-HELP  онлнцюрэ
-BEGIN  мювхмюрэ
-PLAY  хцпюрэ
-WRITE  охяюрэ
-READ  вхрюрэ
-TURN  онбнпювхбюрэ
-MEET  бярперхрэ
-CHANGE  хглемхрэ
-STOP  нярюмюбкхбюрэ
-OPEN  нрйпшрэ
-CLOSE  гюйпшрэ
-IN  б
-ON  мю
-AT  с
-UNDER  онд
-OVER  мюд
-BETWEEN  лефдс
-TO  й
-FROM  хг
-UP  ббепу
-DOWN  бмхг
-THROUGH  вепег
-ALONG  бднкэ
-DURING  бн бпелъ
-AFTER  оняке
-BEFORE  дн
-SINCE  я (мювхмюъ я...)
-WITH  я
-WITHOUT  аег
-ABOUT  н
-FOR  дкъ
-ALWAYS  бяецдю
-NEVER  мхйнцдю
-ALSO  рюйфе
-JUST  опнярн
-ONLY  рнкэйн
-AGAIN  ноърэ
-OFTEN  вюярн
-STILL  бя╗ еы╗
-ALREADY  сфе
-ALMOST  онврх
-ENOUGH  днярюрнвмн
-VERY  нвемэ
-SOMETIMES  хмнцдю
-NOW  яеивюя
-THEN  рнцдю
-USUALLY  нашвмн
-QUICKLY  ашярпн
-SLOWLY  ледкеммн
-WELL  унпньн
-ESPECIALLY  нянаеммн
-GOOD  унпньхи
-BAD  окнуни
-NEW  мнбши
-YOUNG  лнкндни
-OLD  ярюпши
-BIG  анкэьни
-SMALL  люкемэйхи
-LONG  дкхммши
-LOW  мхгйхи
-HIGH  бшянйхи
-STRONG  яхкэмши
-FREE  ябнандмши
-OPEN  нрйпшрши
-EASY  к╗цйхи
-RIGHT  бепмши
-WRONG  мебепмши
-HOT  цнпъвхи
-COLD  ункндмши
-HAPPY  явюяркхбши
-READY  цнрнбши
-ADULT  бгпнякши
-AGE  бнгпюяр
-BABY  люкшь
-BIRTH  пнфдемхе
-BOY  люкэвхй
-CHILD  пеаемнй
-CHILDHOOD  дерярбн
-GIRL  дебнвйю
-HUMAN  векнбей
-KID  пеаемнй
-LIFE  фхгмэ
-MAIDEN NAME  дебхвэъ тюлхкхъ
-MAN  лсфвхмю
-NAME  хлъ
-PEOPLE  кчдх
-PERSON  векнбей
-PERSONALITY  кхвмнярэ
-SURNAME  тюлхкхъ
-TEENAGER  ондпнярнй
-WOMAN  фемыхмю
-YOUTH  лнкндефэ
-BACK  яохмю
-BELLY  фхбнр
-BLOOD  йпнбэ
-BLOOD  йпнбэ
-BODY  рекн
-BONE  йнярэ
-BRAIN  лнгц
-CHEEK  ыейю
-CHEST  цпсдэ
-CHIN  онданпнднй
-EAR  сун
-ELBOW  кнйнрэ
-EYE  цкюг
-EYEBROW  апнбэ
-EYELASH  пеямхжю
-FACE  кхжн
-FINGER  оюкеж
-FIST  йскюй
-FOOT  ярсомъ
-FOREHEAD  кна
-HAIR  бнкняш
-HAND  йхярэ псйх
-HEART  яепдже
-HEEL  оърйю
-HIP  аедпн
-JAW  векчярэ
-KIDNEY  онвйю
-KNEE  йнкемн
-LEG  мнцю
-LIPS  цсаш
-LITTLE FINGER  лхгхмеж
-LIVER  оевемэ
-LUNG  кецйне
-MOUTH  пнр
-MUSCLE  лшьжю
-NAIL  мнцнрэ
-NECK  ьеъ
-NERVE  мепб
-NOSE  мня
-PALM  кюднмэ
-RIB  пеапн
-RING FINGER  аегшлъммши оюкеж
-SKELETON  яйекер
-SKIN  йнфю
-SKULL  вепео
-STOMACH  фексднй
-THROAT  цнпкн
-THUMB  анкэьни оюкеж
-TOE  оюкеж мю мнце
-TONGUE  ъгшй
-TOOTH  гса
-WRIST  гюоъярэе
-TO BE  ашрэ
-TO BREATHE  дшьюрэ
-TO HEAR  якшьюрэ
-TO HOLD  депфюрэ
-TO LIE  кефюрэ
-TO LOOK  ялнрперэ
-TO SEE  бхдерэ
-TO SIT  яхдерэ
-TO SPEAK  цнбнпхрэ
-TO TOUCH  рпнцюрэ
-TO WALK  ундхрэ
-ATTRACTIVE  опхбкейюрекэмши
-BALD  кшяши
-BEARD  анпндю
-BEAUTIFUL  йпюяхбши
-BEAUTY  йпюянрю
-BLOND  аекнйспши
-BUSHY  цсярни
-COMMON  нашвмши
-CURLY  йсдпъбши
-CUTE  лхкши
-DARK  релмши
-FAIR  аекнйспши
-FAT  рнкярши
-FIGURE  тхцспю
-FLUSH  пслъмеж
-FRECKLES  беямсьйх
-GINGER  пшфхи
-HAIRCUT  опхвеяйю
-HEIGHT  пняр
-HOOKED  йпчвйнбюрши
-MOUSTACHE  сяш
-OVAL  нбюкэмши
-PALE  акедмши
-PLUMP  осукши
-ROUND  йпсцкши
-SHORT  йнпнрйхи
-SLIM  ярпнимши
-SQUARE  йбюдпюрмши
-STRAIGHT  опълни
-TALL  бшянйхи
-THIN  усдни
-UGLY  спндкхбши
-WAVY  бнкмхярши
-WEIGHT  бея
-ANGRY  гкни
-BLUE  яхмхи
-BORING  яйсвмши
-BRAVE  упюапши
-CALM  яонйнимши
-CAREFUL  нярнпнфмши
-CHARACTER  уюпюйреп
-CHARACTER  яхлбнк
-CHEERFUL  пюднярмши
-CLEVER  слмши
-CONFUSED  яахрши я рнкйс
-CREATIVE  рбнпвеяйхи
-CRUEL  феярнйхи
-CURIOUS  кчаношрмши
-EASY-GOING  кецйхи мю ондзел
-EMOTIONAL  щлнжхнмюкэмши
-EXCITED  бгбнкмнбюммши
-FAIR  веярмши
-FRIENDLY  дпсфекчамши
-GENEROUS  ыедпши
-GENIUS  цемхюкэмши
-GENTLE  лъцйхи
-GLAD  днбнкэмши
-GREEDY  фюдмши
-HAPPY  явюяркхбши
-HARD-WORKING  рпсднкчахбши
-HONEST  веярмши
-INTELLIGENT  слмши
-JEALOUS  гюбхяркхбши
-KIND  днапши
-LAZY  кемхбши
-LOYAL  бепмши
-LUCKY  сдювкхбши
-PERSISTENT  ярнийхи
-SADNESS  оевюкэ
-SPLEEN  уюмдпю
-AFFAIR  декн
-MOODY  улспши
-NERVOUS  мепбмши
-OPEN  нрйпшрши
-OPTIMISTIC  норхлхярхвмши
-PATIENT  репоекхбши
-PROUD  цнпдши
-QUIET  рхухи
-RELIABLE  мюдефмши
-ROMANTIC  пнлюмрхвмши
-RUDE  цпсаши
-SAD  цпсярмши
-SHY  яреямхрекэмши
-SENSITIVE  всбярбхрекэмши
-SERIOUS  яепэегмши
-STUPID  цксоши
-TALENTED  рюкюмркхбши
-TOUGH  феярйхи
-UPSET  пюяярпнеммши
-WISE  лсдпши
-WITTY  нярпнслмши
-TO ACT  деиярбнбюрэ
-TO BEHAVE  беярх яеаъ
-TO TELL  пюяяйюгшбюрэ
-TO TRY  ярюпюрэяъ
-ADOPTION  сяшмнбкемхе
-AUNT  р╗ръ
-BOYFRIEND  оюпемэ (дпсц)
-BRIDE  мебеярю
-BROTHER  апюр
-BROTHER-IN-LAW  ьспхм, дебепэ
-COUSIN  йсгхмю
-DAUGHTER  днвэ
-DAUGHTER-IN-LAW  ямную, мебеярйю
-DIVORCE  пюгбнд
-ENGAGEMENT  онлнкбйю
-EX-HUSBAND  ашбьхи лсф
-EX-WIFE  ашбьюъ фемю
-FAMILY  яелэъ
-FATHER  нреж
-FOSTER FAMILY  опхелмюъ яелэъ
-FRIEND  дпсц
-GIRLFRIEND  дебсьйю (ондпсцю)
-GODFATHER  йпеярмши нреж
-GODMOTHER  йпеярмюъ люрэ
-GRANDCHILDREN  бмсйх
-GRANDDAUGHTER  бмсвйю
-GRANDFATHER  дедсьйю
-GRANDMOTHER  аюасьйю
-GRANDPARENTS  аюасьйю,дедсьйю
-GRANDSON  бмсй
-HUSBAND  лсф
-LOVER  кчанбмхй(-жю)
-MARRIAGE  апюй
-MOTHER  люрэ
-MOTHER-IN-LAW  реыю, ябейпнбэ
-NEPHEW  окелъммхй
-NIECE  окелъммхжю
-PARENTS  пндхрекх
-RELATIVE  пндярбеммхй
-SISTER  яеярпю
-SON  яшм
-STEPBROTHER  ябндмши апюр
-STEPFATHER  нрвхл
-STEPMOTHER  лювеую
-STEPSISTER  ябндмюъ яеярпю
-TWINS  акхгмежш
-UNCLE  дъдъ
-WEDDING  ябюдэаю
-WIDOW  бднбю
-WIDOWER  бднбеж
-WIFE  фемю
-TO CARE  гюанрхрэяъ
-TO LOVE  кчахрэ
-TO MISS  яйсвюрэ
-TO SUPPORT  онддепфхбюрэ
-BELT  пелемэ
-BLOUSE  аксгйю
-BOOTS  анрхмйх
-BRACELET  апюякер
-CAP  йеойю
-CHAIN  жеонвйю
-CLOAK  окюы
-CLOTHES  ндефдю
-COAT  оюкэрн
-DRESS  окюрэе
-EARRINGS  яепэцх
-HAT  ькъою
-HIGH BOOTS  яюонцх
-HIGH HEELS  бшянйхе йюаксйх
-HOODIE  усдх, рнкярнбйю
-JACKET  охдфюй
-JEANS  дфхмяш
-NECKLACE  нфепекэе
-POCKET  йюплюм
-PYJAMAS  охфюлю
-RAINCOAT  окюы-днфдебхй
-RING  йнкэжн
-SHIRT  псаюьйю
-SHOES  рсткх
-SHORTS  ьнпрш
-SKIRT  чайю
-SLIPPERS  рюонвйх
-SOCKS  мняйх
-SPORTSWEAR  яонпр йнярчл
-SUIT  йнярчл
-SWEATER  ябхреп
-SWIMWEAR  йсоюкэмхй
-TRAINERS  йпняянбйх
-T-SHIRT  тсранкйю
-UMBRELLA  гнмр
-UNDERWEAR  мхфмее аекэе
-UNIFORM  смхтнплю
-ZIP  гюярефйю-лнкмхъ
-TO DRESS UP  мюпъфюрэяъ
-TO TRY ON  опхлепхрэ
-TO WEAR  мняхрэ
-TO ZIP UP  гюярецмсрэ
-APPLE  ъакнйн
-BACON  аейнм
-BANANA  аюмюм
-BEEF  цнбъдхмю
-BERRIES  ъцндш
-BISCUITS  оевемэе
-BREAKFAST  гюбрпюй
-BUTTER  люякн
-CARROT  лнпйнбэ
-CEREAL  укноэъ
-CHICKEN  йспхжю
-COFFEE  йнте
-CORN  йсйспсгю
-CUCUMBER  нцспеж
-DINNER  сфхм
-DRINKS  мюохрйх
-DUCK  срйю
-AUBERGINE  аюйкюфюм
-FISH  пшаю
-FRUITS  тпсйрш
-GARLIC  веямнй
-GRAPES  бхмнцпюд
-HAM  бервхмю
-JAM  бюпемэе
-JUICE  янй
-LEMON  кхлнм
-LETTUCE  яюкюр-кюрсй
-LUNCH  наед
-MILK  лнкнйн
-MINERAL WATER  лхмепюкйю
-MUSHROOM  цпха
-NUTS  нпеух
-ONION  ксй
-PANCAKE  акхмвхй
-PEACH  оепяхй
-PEPPER  оепеж
-PINEAPPLE  юмюмюя
-PLUM  якхбю
-PORK  ябхмхмю
-POTATO  йюпрнтекэ
-SALMON  княняэ
-SANDWICH  ящмдбхв
-SAUSAGE  йнкаюяю
-SHRIMP  йпеберйю
-SNACK  оепейся
-SODA  цюгхпнбйю
-STRAWBERRY  йксамхйю
-TASTE  бйся
-TEA  вюи
-TOAST  рняр
-TOMATO  онлхднп
-TURKEY  хмдеийю
-VEGETABLES  нбных
-WATER  бндю
-WATERMELON  юпасг
-YOGHURT  инцспр
-TO BAKE  оевэ
-TO BOIL  йхоерэ, бюпхрэ
-TO COOK  цнрнбхрэ
-TO COOL  нукюфдюрэ
-TO CUT  пегюрэ
-TO DRINK  охрэ
-TO EAT  еярэ
-TO FRY  фюпхрэ
-TO HEAT  онднцпебюрэ
-TO STEW  рсьхрэ
-TO TASTE  опнанбюрэ
-ACTOR  юйреп
-ARTIST  усднфмхй
-BREAK  оепепшб
-CAREER  йюпэепю
-COMPANY  йнлоюмхъ
-COOK  онбюп
-DESIGNER  дхгюимеп
-DIRECTOR  дхпейрнп
-DOCTOR  бпюв
-ENGINEER  хмфемеп
-FIREFIGHTER  онфюпмши
-HOUSEWIFE  днлнунгъийю
-INTERVIEW  янаеяеднбюмхе
-JOB  пюанрю
-JOURNALIST  фспмюкхяр
-LAWYER  чпхяр
-MEETING  бярпевю
-MONEY  демэцх
-MUSICIAN  лсгшйюмр
-OFFICE  нтхя
-PHOTOGRAPHER  тнрнцпют
-POLICEMAN  онкхжеияйхи
-PROFESSIONAL  опнтеяяхнмюк
-PROGRAMMER  опнцпюллхяр
-PUPIL  свемхй
-SALARY  гюпокюрю
-SCIENTIST  свемши
-SINGER  оебеж
-SPORTSMAN  яонпрялем
-SKILL  мюбшй
-STUDENT  ярсдемр
-TASK  гюдювю
-TEACHER  свхрекэ
-TO EARN  гюпюаюршбюрэ
-TO LEARN  свхрэ врн-кхан
-TO MANAGE  сопюбкърэ
-TO ORDER  гюйюгшбюрэ
-TO ORGANISE  нпцюмхгнбшбюрэ
-TO STUDY  свхрэ(-яъ)
-TO TEACH  опеондюбюрэ
-TO WORK  пюанрюрэ
-APARTMENT  йбюпрхпю
-BASEMENT  ондбюк
-CEILING  онрнкнй
-FLOOR  онк (щрюф)
-HOME  днл (леярн)
-HOUSE  днл (гдюмхе)
-NEIGHBOUR  яняед
-ROOF  йпшью
-STAIRS  кеярмхжю
-WALL  яремю
-YARD  дбнп
-ARMCHAIR  йпеякн
-BOOKCASE  ймхфмши ьйют
-CARPET  йнбеп
-COFFEE TABLE  йнтеимши ярнкхй
-COMPUTER  йнлоэчреп
-CURTAINS  ьрнпш
-DESK  пюанвхи ярнк
-LAMP  кюлою
-LAPTOP  мнсрасй
-LIVING ROOM  цнярхмюъ
-PAINTING  йюпрхмю
-тнрнпюлйю  PICTURE FRAME
-SOFA  дхбюм
-TV  рекебхгнп
-BATH  бюммю
-BATHROBE  аюммши уюкюр
-BATHROOM  бюммюъ йнлмюрю
-BUBBLES  осгшпэйх
-MIRROR  гепйюкн
-RAZOR  апхрбю
-SHAMPOO  ьюлосмэ
-SHOWER  дсь
-SOAP  лшкн
-SPONGE  цсайю
-TOILET  смхрюг
-TOOTHBRUSH  гсамюъ ыерйю
-TOOTHPASTE  гсамюъ оюярю
-TOWEL  онкнремже
-ALARM CLOCK  асдхкэмхй
-BED  йпнбюрэ
-BEDROOM  яоюкэмъ
-BLANKET  ндеъкн
-CLOSET  яреммни ьйют
-HAIRBRUSH  пюявеяйю
-HANGER  беьюкйю
-LIGHT SWITCH  бшйкчвюрекэ
-PHONE  рекетнм
-PILLOW  ондсьйю
-SHEET  опняршмъ
-BOWL  лхяйю
-CHAIR  ярск
-COOKER  окхрю
-CUP  вюьйю
-FORK  бхкйю
-FREEZER  лнпнгхкйю
-FRIDGE  ункндхкэмхй
-GLASS  анйюк
-KETTLE  вюимхй
-KITCHEN  йсумъ
-KNIFE  мнф
-MUG  йпсфйю
-PLATE  рюпекйю
-SPOON  кнфйю
-TABLE  ярнк
-TO BRUSH TEETH  вхярхрэ гсаш
-TO CLEAN  вхярхрэ
-TO DRY  ясьхрэ
-TO LIVE  фхрэ
-TO SLEEP  яоюрэ
-TO TAKE A BATH  опхмхлюрэ бюммс
-TO WASH  лшрэ
-BASKETBALL  аюяйеранк
-BILLIARDS  ахкэъпд
-BOOK  ймхцю
-BOWLING  анскхмц
-DANCE  рюмеж
-CARDS  йюпрш
-CHESS  ьюулюрш
-CINEMA  йхмн
-CIRCUS  жхпй
-COLLECTING  йнккейжхнмхп-мхе
-COMICS  йнлхйяш
-COMPUTER GAMES  бхденхцпш
-CROSSWORDS  йпняябнпдш
-DIVING  дюибхмц
-DRAWING  пхянбюмхе
-FISHING  пшаюкйю
-FITNESS  тхрмея
-FOOTBALL  тсранк
-HOCKEY  унййеи
-HUNT  нунрю
-KNITTING  бъгюмхе
-MODEL  лндекэ
-MUSIC  лсгшйю
-PHOTO  тнрнцпютхъ
-POETRY  онщгхъ
-READING  времхе
-RUNNING  аец
-SCULPTURE  яйскэорспю
-SHOPPING  ьнохмц
-SINGING  оемхе
-SKIING  йюрюмхе мю кшфюу
-SWIMMING  окюбюмхе
-TENNIS  реммхя
-THEATRE  реюрп
-VOLLEYBALL  бнкеианк
-YOGA  инцю
-TO DANCE  рюмжебюрэ
-GARDENING  яюднбндярбн
-TO DRAW  пхянбюрэ
-янахпюрэ цпхаш  TO MUSHROOMING
-хцпюрэ мю цхрюпе  PLAY THE GUITAR
-хцпю мю охюмхмн  PLAY THE PIANO
-TO READ  вхрюрэ
-TO RUN  аецюрэ
-TO SING  оерэ
-TO SWIM  окюбюрэ
-AGENCY  юцемрярбн
-AIRLINES  юбхюкхмхх
-AIRPORT  ющпнонпр
-ATTRACTIONS  днярнопхл-ярх
-BACKPACK  пчйгюй
-BAG  яслйю
-BAGGAGE  аюцюф
-BEACH  окъф
-BICYCLE  бекняхоед
-BONFIRE  йняреп
-BORDER  цпюмхжю
-BRONZED  гюцнпекши
-BUS  юбрнася
-CAMP  кюцепэ
-CAPITAL  ярнкхжю
-CITY  цнпнд
-CRUISE  йпсхг
-CURRENCY  бюкчрю
-DIRECTION  мюопюбкемхе
-EAST  бнярнй
-EXOTIC  щйгнрхвеяйхи
-FOREIGN  хмнярпюммши
-FOREIGNER  хмнярпюмеж
-HIKE  онунд
-HOTEL  нрекэ, цнярхмхжю
-JOURNEY  осреьеярбхе
-LOCAL  леярмши
-MAP  йюпрю
-MOTORCYCLE  лнрнжхйк
-MOUNTAIN  цнпю
-NORTH  яебеп
-PASSPORT  оюяонпр
-PLANE  яюлнкер
-POSTCARD  нрйпшрйю
-RAILWAY  фекегмюъ днпнцю
-REST  нрдшу
-ROOM  мнлеп, йнлмюрю
-ROUTE  люпьпср
-SHIP  йнпюакэ
-SOUTH  чц
-SOUVENIR  ясбемхп
-SUITCASE  велндюм
-TAXI  рюйях
-TENT  оюкюрйю
-TICKET  ахкер
-TOURISM  рспхгл
-TRAIN  онегд
-TRIP  онегдйю
-VACATION  нросяй, йюмхйскш
-VISA  бхгю
-WEST  гюоюд
-TO ARRIVE  опхашрэ
-TO BOOK  гюапнмхпнбюрэ
-TO BUY  йсохрэ
-TO CHANGE TO  оепеяюфхбюрэяъ
-TO GET A SUNTAN  гюцнпюрэ
-TO LAND  опхгелкърэяъ
-TO REST  нрдшуюрэ
-BLACK  вепмши
-BLUE  яхмхи
-BROWN  йнпхвмебши
-COLOUR  жбер
-DARK BLUE  релмн-яхмхи
-GOLD  гнкнрхярши
-GREEN  гекемши
-GREY  яепши
-LIGHT BLUE  цнксани
-ORANGE  нпюмфебши
-PINK  пнгнбши
-RED  йпюямши
-SHADE  нрремнй
-SILVER  яепеапхярши
-VIOLET  тхнкернбши
-WHITE  аекши
-YELLOW  фекрши
-TO PAINT  йпюяхрэ
-CRAFT  люярепярбн
-BIG  анкэьни
-CIRCLE  йпсц
-COOL  опнукюдмши
-FAR  дюкейхи
-FAST  ашярпши
-FLUFFY  осьхярши
-GOOD  унпньхи
-HARD  феярйхи, рбепдши
-HEAVY  ръфекши
-HIGH  бшянйхи
-HOT  цнпъвхи
-LARGE  йпсомши
-LENGTH  дкхмю
-LIGHT  кецйхи
-LINE  кхмхъ
-LONG  дкхммши
-LOUD  цпнлйхи
-LOW  мхгйхи
-NEW  мнбши
-OLD  ярюпши
-QUICK  ашярпши
-ROUND  йпсцкши
-SHAPE  тнплю
-SHARP  нярпши
-SHORT  йнпнрйхи
-SIZE  пюглеп
-SLOW  ледкеммши
-SMALL  люкемэйхи
-SMOOTH  цкюдйхи
-SOFT  лъцйхи
-SPEED  яйнпнярэ
-SQUARE   йбюдпюрмши
-WARM  реокши
-WEIGHT  бея
-GROWTH  пняр
-RAISE  ондмхлюрэ
-CUSTOMERS  йкхемрш
-FEEDBACK  напюрмюъ ябъгэ
-REVIEW  нагнп
-LESS  лемэье
-INCREASE  сбекхвемхе
-HIRE  мюмхлюрэ
-EMPLOYEE  пюанрмхй
-STAFF  оепянмюк
-AFTERNOON  оняке онксдмъ
-CENTURY  бей
-DATE  дюрю
-DAY  демэ
-DECADE  деяърхкерхе
-EVENING  бевеп
-HOUR  вюя
-MIDNIGHT  онкмнвэ
-MINUTE  лхмсрю
-MONTH  леяъж
-MORNING  српн
-NIGHT  мнвэ
-SECOND  яейсмдю
-TIME  бпелъ
-WEEK  медекъ
-WEEKDAYS  асдмх
-WEEKEND  бшундмше
-YEAR  цнд
-MONDAY  онмедекэмхй
-TUESDAY  брнпмхй
-WEDNESDAY  япедю
-THURSDAY  вербепц
-FRIDAY  оърмхжю
-SATURDAY  ясаанрю
-SUNDAY  бняйпеяемэе
-WINTER  гхлю
-SPRING  беямю
-SUMMER  керн
-AUTUMN  няемэ
-JANUARY  ъмбюпэ
-FEBRUARY  тебпюкэ
-MARCH  люпр
-APRIL  юопекэ
-MAY  люи
-JUNE  хчмэ
-JULY  хчкэ
-AUGUST  юбцсяр
-SEPTEMBER  яемръапэ
-OCTOBER  нйръапэ
-NOVEMBER  мнъапэ
-DECEMBER  дейюапэ
-FLUSH  нвхярхрэ
-REVERT  бнгбпюыюрэяъ
-AIR  бнгдсу
-BLIZZARD  лерекэ
-CHILLY  опнукюдмши
-CLEAR  вхярши
-CLOUD  накюйн
-CLOUDY  накювмши
-COLD  ункнд, ункндмши
-FOG  рслюм
-FOGGY  рслюммши
-FROSTY  лнпнгмши
-HOT  фюпйхи
-ICE  кед
-ICY  кедъмни
-LIGHTNING  лнкмхъ
-MOON  ксмю
-MUD  цпъгэ
-PUDDLE  ксфю
-RAIN  днфдэ
-RAINBOW  пюдсцю
-RAINY  днфдкхбши
-SKY  меан
-SNOW  ямец
-SNOWFALL  ямецноюд
-SNOWFLAKE  ямефхмйю
-SNOWY  ямефмши
-STAR  гбегдю
-STARRY  гбегдмши
-SUN  янкмже
-SUNLIGHT  янкмевмши ябер
-SUNNY  янкмевмши
-SUNRISE  пюяябер
-SUNSET  гюйюр
-THUNDER  цпнл
-THUNDERSTORM  цпнгю
-WEATHER  онцндю
-WIND  береп
-WINDY  берпемши
-TO BEAT  ярсвюрэ
-TO BLOW  дсрэ
-TO COVER UP  онйпшбюрэ
-TO DARKEN  релмерэ
-TO DRIP  йюоюрэ
-TO FALL  оюдюрэ
-TO LIGHTEN  яберкерэ
-TO MELT  рюърэ
-CAVE  оеыепю
-CLIFF  яйюкю
-DESERT  осяршмъ
-DUST  ошкэ
-FIELD  онке
-FOREST  кея
-GROUND  гелкъ
-HILL  ункл
-ISLAND  нярпнб
-JUNGLE  дфсмцкх
-LAKE  нгепн
-MOUNTAIN  цнпю
-NATURE  опхпндю
-OCEAN  нйеюм
-POND  опсд
-RIVER  пейю
-SAND  оеянй
-SEA  лнпе
-STONE  йюлемэ
-STREAM  псвеи
-SWAMP  анкнрн
-WAVE  бнкмю
-ANIMAL  фхбнрмне
-BEAK  йкчб
-CLAW  йнцнрэ
-FEATHER  оепн
-FUR  ьепярэ
-BULL  ашй
-CAT  йньйю
-CHICKEN  йспхжю
-COW  йнпнбю
-DOG  янаюйю
-DONKEY  няек
-GOAT  йнгю
-GOOSE  цсяэ
-GUINEA PIG  лнпяйюъ ябхмйю
-HAMSTER  унлъй
-HORSE  кньюдэ
-KITTEN  йнремнй
-MOUSE  лшьэ
-PARROT  оносцюи
-PET  охрнлеж
-PIG  ябхмэъ
-PUPPY  ыемнй
-RABBIT  йпнкхй
-RAT  йпшяю
-SHEEP  нбжю
-BEAR  ледбедэ
-CAMEL  бепакчд
-CROCODILE  йпнйндхк
-DEER  нкемэ
-ELEPHANT  якнм
-FOX  кхяю
-GIRAFFE  фхпют
-HIPPO  аецелнр
-KANGAROO  йемцспс
-LION  кеб
-MONKEY  наегэъмю
-PANDA  оюмдю
-RHINO  мнянпнц
-SNAKE  глеъ
-TIGER  рхцп
-WILD  дхйхи
-WOLF  бнкй
-BEE  овекю
-BUG  фсй
-BUTTERFLY  аюанвйю
-FLY  лсую
-INSECT  мюяейнлне
-SPIDER  оюсй
-BIRD  орхжю
-DUCK  срйю
-EAGLE  нпек
-OWL  янбю
-PENGUIN  охмцбхм
-PIGEON  цнксаэ
-RAVEN  бнпнм
-SPARROW  бнпнаеи
-SWAN  кеаедэ
-TO BARK  кюърэ
-TO BITE  йсяюрэ
-TO CATCH  кнбхрэ
-TO FEED  йнплхрэ
-TO FLY  керюрэ
-TO HISS  ьхоерэ
-TO PET  цкюдхрэ
-TO PURR  лспкшйюрэ
-TO SCREAM  йпхвюрэ
-BUSH  йсяр
-CACTUS  йюйрся
-FLOWER  жбернй
-GRASS  рпюбю
-LEAF  кхяр
-LILY  кхкхъ
-OAK  дса
-PINE  янямю
-ROOT  йнпемэ
-ROSE  пнгю
-TREE  депебн
-TO BLOOM  жбеярх
-TO FRUIT  окнднмняхрэ
-TO GROW  пюярх
-TO PLANT  яюфюрэ
-TO WATER  онкхбюрэ
-CHRISTMAS  пнфдеярбн
-DECORATIONS  сйпюьемхъ
-GUEST  цнярэ
-HOLIDAY  опюгдмхй
-NEW YEAR  мнбши цнд
-PRESENT  ондюпнй
-SNOWMAN  ямецнбхй
-TREAT  сцныемхе
-BALLOON  бнгдсьмши ьюп
-BIRTHDAY  демэ пнфдемхъ
-CAKE  рнпр
-CANDLE  ябевю
-PARTY  бевепхмйю
-WISH  фекюмхе
-TO BE BORN  пндхрэяъ
-TO CELEBRATE  опюгдмнбюрэ
-TO CONGRATULATE  онгдпюбкърэ
-TO ENJOY  мюякюфдюрэяъ
-TO HAVE FUN  пюгбкейюрэяъ
-TO INVITE  опхцкюяхрэ
-TO LIKE  мпюбхрэяъ
-TO MAKE A WISH  гюцюдюрэ фекюмхе
-TO PREPARE  цнрнбхрэяъ
-TO VISIT  мюбеыюрэ
-BAKERY  аскнвмюъ
-BAKERY  оейюпмъ
-BANK  аюмй
-BENCH  яйюлэъ
-BOOKSHOP  ймхфмши люцюгхм
-BRIDGE  лняр
-BUILDING  гдюмхе
-CAFE  йюте
-CAR PARK  оюпйнбйю
-CATHEDRAL  янанп
-CHEAP  деьебши
-CHURCH  жепйнбэ
-COIN  лнмерю
-CORNER  сцнк
-CROSSROADS  оепейпеярнй
-CUSTOMER  онйсоюрекэ
-DEAD END  рсохй
-EXPENSIVE  днпнцни
-FOUNTAIN  тнмрюм
-HOSPITAL  анкэмхжю
-LEFT  мюкебн
-LIBRARY  ахакхнрейю
-LIFT  ондмхлюрэ
-MALL  рнпцнбши жемрп
-MARKET  пшмнй
-MONUMENT  оюлърмхй
-MUSEUM  лсгеи
-NIGHTCLUB  мнвмни йкса
-PARK  оюпй
-PRICE  жемю
-RECEIPT  вей
-RESTAURANT  пеярнпюм
-RIGHT  мюопюбн
-ROAD  днпнцю
-SALE  пюяопндюфю
-SCHOOL  ьйнкю
-SHOP  люцюгхм
-SQUARE  окныюдэ
-STADIUM  ярюдхнм
-STATION  ярюмжхъ
-STOP  нярюмнбйю
-STREET  скхжю
-SUBWAY  лерпн
-SUPERMARKET  ясоеплюпйер
-UNIVERSITY  смхбепяхрер
-VIEW  бхд
-WAY  осрэ
-ZOO  гнноюпй
-TO COST  ярнхрэ
-TO CROSS  оепеяейюрэ
-TO FIND  мюундхрэ
-TO GO  хдрх
-TO PAY  окюрхрэ
-TO SELL  опндюбюрэ
-TO STOP  нярюмнбхрэяъ
-AS  йюй
-BECAUSE  онрнлс врн
-BUT  мн
-IF  еякх
-HOW  йюй
-OR  хкх
-THAN  вел
-THAT  йнрнпши
-WHAT  врн
-WHEN  йнцдю
-WHERE  цде
-WHICH  йнрнпши
-WHO  йрн
-WHOM  йнлс
-WHOSE  веи
-YET  ндмюйн
-ABOVE  мюд
-AT  с, б, мю
-BEHIND  гю
-BELOW  мхфе
-BETWEEN  лефдс
-BY  с
-IN  б
-ON  мю
-UNDER  онд
-AFTER  оняке
-AT  б
-BEFORE  дн
-BY  й
-DURING  б ревемхе
-IN  б, вепег
-ON  б
-SINCE  я реу онп, йюй
-UNTIL  дн реу онп
-BECAUSE OF  хг-гю
-FOR  дкъ, гю, хг-гю
-FROM  нр
-OF  хг-гю, нр, он
-THANKS TO  акюцндюпъ
-THROUGH  акюцндюпъ, хг-гю
-ACROSS  вепег
-ALONG  бднкэ
-FROM  нр
-INTO  б
-OUT  хг
-TO  й, б, мю
-FALCON  янйнк
-OFFER  опедкнфемхе
-DEFINITELY  нопедек╗ммн
-CORNER  сцнк
-DISCUSS  наясфдюрэ
-PORCH  йпшкэжн
-QUITE  бонкме
-SUDDEN  бмегюомши
-STROKE  сдюп
-INTERRUPT  опепшбюрэ
-NOTICE  сбеднлкемхе
-DECIDE  пеьюрэ
-OBJECTIONS  бнгпюфемхъ
-AT LEAST  он йпюимеи лепе
-SPEND  рпюрхрэ
-ROBBERY  нцпюакемхе
-SMELL  гюоюу
-RECENTLY  медюбмн
-EXPLANATION  назъямемхе
-REALIZE  нянгмюбюрэ
-THE TILL  йюяяю
-STOLEN  сйпюдеммши
-ALTHOUGH  унръ
-ACHIEVE  днярхцюрэ
-FULFILLED  бшонкмеммши
-INCREASE  сбекхвемхе
-WEAK  якюаши
-SUPPLY  онярюбйю
-UNRECOGNIZED  мепюяонгмюммши
-REPRESENTS  опедярюбкъер
-THROWS  апняюер
-DEPRECATED  нясфдюелши
-LOYALTY  кнъкэмнярэ
-LENDING  йпедхрнбюмхе
-RELATIONS  нрмньемхе
-SPOIL  онпрхрэ
-ABLE  яонянамши
-ATTORNEY  юдбнйюр
-ACCURACY  рнвмнярэ
-ABILITY  яонянамнярэ
-UNPLEASANT  меопхърмши
-DIARY  дмебмхй
-ONCE  ндмюфдш
-SHOULD  якедсер
-CROWD  рнкою
-GLOVE  оепвюрйю
-SENTENSE  опедкнфемхе
-AGAINST  опнрхб
-SHOUT  йпхвюрэ
-HAPPILY  пюднярмн
-FIRMNESS  ярнийнярэ
-DECISION  пеьемхе
-OVERCOME  опенднкерэ
+I  п╞
+YOU  п╒п╚
+SHE  п·п²п░
+HE  п·п²
+IT  п·п²п·
+WE  п°п╚
+THEY  п·п²п≤
+ME  п°п²п∙
+HER  п∙п│
+HIM  п∙п°пё
+US  п²п░п║
+THEM  п≤п°
+MY  п°п·п≥
+YOUR  п╒п▓п·п≥
+HIS  п∙п⌠п·
+ITS  п∙п⌠п·, п∙п│
+OUR  п²п░п╗
+THEIR  п≤п╔
+THIS  п╜п╒п·п╒, п╜п╒п·, п╜п╒п░
+THESE  п╜п╒п≤
+THAT  п╒п·п╒, п╒п░, п╒п·
+THOSE  п╒п∙
+ALL  п▓п║п│
+EVERY  п п░п√п■п╚п≥
+ANY  п⌡п╝п▒п·п≥ п⌡п╝п▒п░п╞
+SOME  п²п∙п п·п╒п·п═п╚п≥
+OTHER  п■п═пёп⌠п·п≥
+NO  п²п∙п╒
+WHAT  п╖п╒п·
+WHO  п п╒п·
+WHICH  п п░п п·п≥
+WHOSE  п╖п∙п≥
+PEOPLE  п⌡п╝п■п≤
+FAMILY  п║п∙п°п╛п╞
+WOMAN  п√п∙п²п╘п≤п²п░
+MAN  п°пёп√п╖п≤п²п░
+GIRL  п■п∙п▓п·п╖п п░
+BOY  п°п░п⌡п╛п╖п≤п 
+CHILD  п═п∙п▒п│п²п·п 
+FRIEND  п■п═пёп⌠
+HUSBAND  п°пёп√
+WIFE  п√п∙п²п░
+NAME  п≤п°п╞
+HEAD  п⌠п·п⌡п·п▓п░
+FACE  п⌡п≤п╕п·
+HAND  п═пёп п░
+LIFE  п√п≤п≈п²п╛
+HOUR  п╖п░п║
+WEEK  п²п∙п■п∙п⌡п╞
+DAY  п■п∙п²п╛
+NIGHT  п²п·п╖п╛
+MONTH  п°п∙п║п╞п╕
+YEAR  п⌠п·п■
+TIME  п▓п═п∙п°п╞
+WORLD  п°п≤п═
+SUN  п║п·п⌡п²п╕п∙
+ANIMAL  п√п≤п▓п·п╒п²п·п∙
+TREE  п■п∙п═п∙п▓п·
+WATER  п▓п·п■п░
+FOOD  п∙п■п░
+FIRE  п·п⌠п·п²п╛
+COUNTRY  п║п╒п═п░п²п░
+CITY  п⌠п·п═п·п■
+STREET  пёп⌡п≤п╕п░
+WORK  п═п░п▒п·п╒п░
+SCHOOL  п╗п п·п⌡п░
+SHOP  п°п░п⌠п░п≈п≤п²
+HOUSE  п■п·п°
+ROOM  п п·п°п²п░п╒п░
+CAR  п░п▓п╒п·п°п·п▒п≤п⌡п╛
+PAPER  п▒пёп°п░п⌠п░
+PEN  п═пёп╖п п░
+DOOR  п■п▓п∙п═п╛
+CHAIR  п║п╒пёп⌡
+TABLE  п║п╒п·п⌡
+MONEY  п■п∙п²п╛п⌠п≤
+WAY  п÷пёп╒п╛
+END  п п·п²п∙п╕
+PRICE  п╕п∙п²п░
+QUESTION  п▓п·п÷п═п·п║
+ANSWER  п·п╒п▓п∙п╒
+NUMBER  п²п·п°п∙п═
+BE  п▒п╚п╒п╛
+HAVE  п≤п°п∙п╒п╛
+DO  п■п∙п⌡п░п╒п╛
+GET  п÷п·п⌡пёп╖п░п╒п╛
+CAN  п°п·п╖п╛
+FEEL  п╖пёп▓п║п╒п▓п·п▓п░п╒п╛
+LIVE  п√п≤п╒п╛
+LOVE  п⌡п╝п▒п≤п╒п╛
+WANT  п╔п·п╒п∙п╒п╛
+SAY  п║п п░п≈п░п╒п╛
+TELL  п⌠п·п▓п·п═п≤п╒п╛
+SEE  п▓п≤п■п∙п╒п╛
+HEAR  п║п⌡п╚п╗п░п╒п╛
+LISTEN TO  п║п⌡пёп╗п░п╒п╛
+BELIEVE  п▓п∙п═п≤п╒п╛
+TAKE  п▒п═п░п╒п╛
+GIVE  п■п░п▓п░п╒п╛
+GO  п≤п■п╒п≤
+RUN  п▒п∙п√п░п╒п╛
+WALK  п⌠пёп⌡п╞п╒п╛
+COME  п÷п═п≤п╔п·п■п≤п╒п╛
+LEAVE  п÷п·п п≤п■п░п╒п╛
+SIT  п║п≤п■п∙п╒п╛
+STAND  п║п╒п·п╞п╒п╛
+MAKE  п■п∙п⌡п░п╒п╛
+KNOW  п≈п²п░п╒п╛
+UNDERSTAND  п÷п·п²п≤п°п░п╒п╛
+REMEMBER  п÷п·п°п²п≤п╒п╛
+THINK  п■пёп°п░п╒п╛
+BRING  п÷п═п≤п²п·п║п≤п╒п╛
+FIND  п²п░п╔п·п■п≤п╒п╛
+LOSE  п╒п∙п═п╞п╒п╛
+USE  п≤п║п÷п·п⌡п╛п≈п·п▓п░п╒п╛
+WORK  п═п░п▒п·п╒п░п╒п╛
+STUDY  пёп╖п≤п╒п╛п║п╞
+LEARN  пёп╖п≤п╒п╛
+ASK  п║п÷п═п░п╗п≤п▓п░п╒п╛
+ANSWER  п·п╒п▓п∙п╒п≤п╒п╛
+LET  п÷п·п≈п▓п·п⌡п╞п╒п╛
+HELP  п÷п·п°п·п⌠п░п╒п╛
+BEGIN  п²п░п╖п≤п²п░п╒п╛
+PLAY  п≤п⌠п═п░п╒п╛
+WRITE  п÷п≤п║п░п╒п╛
+READ  п╖п≤п╒п░п╒п╛
+TURN  п÷п·п▓п·п═п░п╖п≤п▓п░п╒п╛
+MEET  п▓п║п╒п═п∙п╒п≤п╒п╛
+CHANGE  п≤п≈п°п∙п²п≤п╒п╛
+STOP  п·п║п╒п░п²п░п▓п⌡п≤п▓п░п╒п╛
+OPEN  п·п╒п п═п╚п╒п╛
+CLOSE  п≈п░п п═п╚п╒п╛
+IN  п▓
+ON  п²п░
+AT  пё
+UNDER  п÷п·п■
+OVER  п²п░п■
+BETWEEN  п°п∙п√п■пё
+TO  п 
+FROM  п≤п≈
+UP  п▓п▓п∙п═п╔
+DOWN  п▓п²п≤п≈
+THROUGH  п╖п∙п═п∙п≈
+ALONG  п▓п■п·п⌡п╛
+DURING  п▓п· п▓п═п∙п°п╞
+AFTER  п÷п·п║п⌡п∙
+BEFORE  п■п·
+SINCE  п║ (п²п░п╖п≤п²п░п╞ п║...)
+WITH  п║
+WITHOUT  п▒п∙п≈
+ABOUT  п·
+FOR  п■п⌡п╞
+ALWAYS  п▓п║п∙п⌠п■п░
+NEVER  п²п≤п п·п⌠п■п░
+ALSO  п╒п░п п√п∙
+JUST  п÷п═п·п║п╒п·
+ONLY  п╒п·п⌡п╛п п·
+AGAIN  п·п÷п╞п╒п╛
+OFTEN  п╖п░п║п╒п·
+STILL  п▓п║п│ п∙п╘п│
+ALREADY  пёп√п∙
+ALMOST  п÷п·п╖п╒п≤
+ENOUGH  п■п·п║п╒п░п╒п·п╖п²п·
+VERY  п·п╖п∙п²п╛
+SOMETIMES  п≤п²п·п⌠п■п░
+NOW  п║п∙п≥п╖п░п║
+THEN  п╒п·п⌠п■п░
+USUALLY  п·п▒п╚п╖п²п·
+QUICKLY  п▒п╚п║п╒п═п·
+SLOWLY  п°п∙п■п⌡п∙п²п²п·
+WELL  п╔п·п═п·п╗п·
+ESPECIALLY  п·п║п·п▒п∙п²п²п·
+GOOD  п╔п·п═п·п╗п≤п≥
+BAD  п÷п⌡п·п╔п·п≥
+NEW  п²п·п▓п╚п≥
+YOUNG  п°п·п⌡п·п■п·п≥
+OLD  п║п╒п░п═п╚п≥
+BIG  п▒п·п⌡п╛п╗п·п≥
+SMALL  п°п░п⌡п∙п²п╛п п≤п≥
+LONG  п■п⌡п≤п²п²п╚п≥
+LOW  п²п≤п≈п п≤п≥
+HIGH  п▓п╚п║п·п п≤п≥
+STRONG  п║п≤п⌡п╛п²п╚п≥
+FREE  п║п▓п·п▒п·п■п²п╚п≥
+OPEN  п·п╒п п═п╚п╒п╚п≥
+EASY  п⌡п│п⌠п п≤п≥
+RIGHT  п▓п∙п═п²п╚п≥
+WRONG  п²п∙п▓п∙п═п²п╚п≥
+HOT  п⌠п·п═п╞п╖п≤п≥
+COLD  п╔п·п⌡п·п■п²п╚п≥
+HAPPY  п║п╖п░п║п╒п⌡п≤п▓п╚п≥
+READY  п⌠п·п╒п·п▓п╚п≥
+ADULT  п▓п≈п═п·п║п⌡п╚п≥
+AGE  п▓п·п≈п═п░п║п╒
+BABY  п°п░п⌡п╚п╗
+BIRTH  п═п·п√п■п∙п²п≤п∙
+BOY  п°п░п⌡п╛п╖п≤п 
+CHILD  п═п∙п▒п∙п²п·п 
+CHILDHOOD  п■п∙п╒п║п╒п▓п·
+GIRL  п■п∙п▓п·п╖п п░
+HUMAN  п╖п∙п⌡п·п▓п∙п 
+KID  п═п∙п▒п∙п²п·п 
+LIFE  п√п≤п≈п²п╛
+MAIDEN NAME  п■п∙п▓п≤п╖п╛п╞ п╓п░п°п≤п⌡п≤п╞
+MAN  п°пёп√п╖п≤п²п░
+NAME  п≤п°п╞
+PEOPLE  п⌡п╝п■п≤
+PERSON  п╖п∙п⌡п·п▓п∙п 
+PERSONALITY  п⌡п≤п╖п²п·п║п╒п╛
+SURNAME  п╓п░п°п≤п⌡п≤п╞
+TEENAGER  п÷п·п■п═п·п║п╒п·п 
+WOMAN  п√п∙п²п╘п≤п²п░
+YOUTH  п°п·п⌡п·п■п∙п√п╛
+BACK  п║п÷п≤п²п░
+BELLY  п√п≤п▓п·п╒
+BLOOD  п п═п·п▓п╛
+BLOOD  п п═п·п▓п╛
+BODY  п╒п∙п⌡п·
+BONE  п п·п║п╒п╛
+BRAIN  п°п·п≈п⌠
+CHEEK  п╘п∙п п░
+CHEST  п⌠п═пёп■п╛
+CHIN  п÷п·п■п▒п·п═п·п■п·п 
+EAR  пёп╔п·
+ELBOW  п⌡п·п п·п╒п╛
+EYE  п⌠п⌡п░п≈
+EYEBROW  п▒п═п·п▓п╛
+EYELASH  п═п∙п║п²п≤п╕п░
+FACE  п⌡п≤п╕п·
+FINGER  п÷п░п⌡п∙п╕
+FIST  п пёп⌡п░п 
+FOOT  п║п╒пёп÷п²п╞
+FOREHEAD  п⌡п·п▒
+HAIR  п▓п·п⌡п·п║п╚
+HAND  п п≤п║п╒п╛ п═пёп п≤
+HEART  п║п∙п═п■п╕п∙
+HEEL  п÷п╞п╒п п░
+HIP  п▒п∙п■п═п·
+JAW  п╖п∙п⌡п╝п║п╒п╛
+KIDNEY  п÷п·п╖п п░
+KNEE  п п·п⌡п∙п²п·
+LEG  п²п·п⌠п░
+LIPS  п⌠пёп▒п╚
+LITTLE FINGER  п°п≤п≈п≤п²п∙п╕
+LIVER  п÷п∙п╖п∙п²п╛
+LUNG  п⌡п∙п⌠п п·п∙
+MOUTH  п═п·п╒
+MUSCLE  п°п╚п╗п╕п░
+NAIL  п²п·п⌠п·п╒п╛
+NECK  п╗п∙п╞
+NERVE  п²п∙п═п▓
+NOSE  п²п·п║
+PALM  п⌡п░п■п·п²п╛
+RIB  п═п∙п▒п═п·
+RING FINGER  п▒п∙п≈п╚п°п╞п²п²п╚п≥ п÷п░п⌡п∙п╕
+SKELETON  п║п п∙п⌡п∙п╒
+SKIN  п п·п√п░
+SKULL  п╖п∙п═п∙п÷
+STOMACH  п√п∙п⌡пёп■п·п 
+THROAT  п⌠п·п═п⌡п·
+THUMB  п▒п·п⌡п╛п╗п·п≥ п÷п░п⌡п∙п╕
+TOE  п÷п░п⌡п∙п╕ п²п░ п²п·п⌠п∙
+TONGUE  п╞п≈п╚п 
+TOOTH  п≈пёп▒
+WRIST  п≈п░п÷п╞п║п╒п╛п∙
+TO BE  п▒п╚п╒п╛
+TO BREATHE  п■п╚п╗п░п╒п╛
+TO HEAR  п║п⌡п╚п╗п░п╒п╛
+TO HOLD  п■п∙п═п√п░п╒п╛
+TO LIE  п⌡п∙п√п░п╒п╛
+TO LOOK  п║п°п·п╒п═п∙п╒п╛
+TO SEE  п▓п≤п■п∙п╒п╛
+TO SIT  п║п≤п■п∙п╒п╛
+TO SPEAK  п⌠п·п▓п·п═п≤п╒п╛
+TO TOUCH  п╒п═п·п⌠п░п╒п╛
+TO WALK  п╔п·п■п≤п╒п╛
+ATTRACTIVE  п÷п═п≤п▓п⌡п∙п п░п╒п∙п⌡п╛п²п╚п≥
+BALD  п⌡п╚п║п╚п≥
+BEARD  п▒п·п═п·п■п░
+BEAUTIFUL  п п═п░п║п≤п▓п╚п≥
+BEAUTY  п п═п░п║п·п╒п░
+BLOND  п▒п∙п⌡п·п пёп═п╚п≥
+BUSHY  п⌠пёп║п╒п·п≥
+COMMON  п·п▒п╚п╖п²п╚п≥
+CURLY  п пёп■п═п╞п▓п╚п≥
+CUTE  п°п≤п⌡п╚п≥
+DARK  п╒п∙п°п²п╚п≥
+FAIR  п▒п∙п⌡п·п пёп═п╚п≥
+FAT  п╒п·п⌡п║п╒п╚п≥
+FIGURE  п╓п≤п⌠пёп═п░
+FLUSH  п═пёп°п╞п²п∙п╕
+FRECKLES  п▓п∙п║п²пёп╗п п≤
+GINGER  п═п╚п√п≤п≥
+HAIRCUT  п÷п═п≤п╖п∙п║п п░
+HEIGHT  п═п·п║п╒
+HOOKED  п п═п╝п╖п п·п▓п░п╒п╚п≥
+MOUSTACHE  пёп║п╚
+OVAL  п·п▓п░п⌡п╛п²п╚п≥
+PALE  п▒п⌡п∙п■п²п╚п≥
+PLUMP  п÷пёп╔п⌡п╚п≥
+ROUND  п п═пёп⌠п⌡п╚п≥
+SHORT  п п·п═п·п╒п п≤п≥
+SLIM  п║п╒п═п·п≥п²п╚п≥
+SQUARE  п п▓п░п■п═п░п╒п²п╚п≥
+STRAIGHT  п÷п═п╞п°п·п≥
+TALL  п▓п╚п║п·п п≤п≥
+THIN  п╔пёп■п·п≥
+UGLY  пёп═п·п■п⌡п≤п▓п╚п≥
+WAVY  п▓п·п⌡п²п≤п║п╒п╚п≥
+WEIGHT  п▓п∙п║
+ANGRY  п≈п⌡п·п≥
+BLUE  п║п≤п²п≤п≥
+BORING  п║п пёп╖п²п╚п≥
+BRAVE  п╔п═п░п▒п═п╚п≥
+CALM  п║п÷п·п п·п≥п²п╚п≥
+CAREFUL  п·п║п╒п·п═п·п√п²п╚п≥
+CHARACTER  п╔п░п═п░п п╒п∙п═
+CHARACTER  п║п≤п°п▓п·п⌡
+CHEERFUL  п═п░п■п·п║п╒п²п╚п≥
+CLEVER  пёп°п²п╚п≥
+CONFUSED  п║п▒п≤п╒п╚п≥ п║ п╒п·п⌡п пё
+CREATIVE  п╒п▓п·п═п╖п∙п║п п≤п≥
+CRUEL  п√п∙п║п╒п·п п≤п≥
+CURIOUS  п⌡п╝п▒п·п÷п╚п╒п²п╚п≥
+EASY-GOING  п⌡п∙п⌠п п≤п≥ п²п░ п÷п·п■п╙п∙п°
+EMOTIONAL  п╜п°п·п╕п≤п·п²п░п⌡п╛п²п╚п≥
+EXCITED  п▓п≈п▓п·п⌡п²п·п▓п░п²п²п╚п≥
+FAIR  п╖п∙п║п╒п²п╚п≥
+FRIENDLY  п■п═пёп√п∙п⌡п╝п▒п²п╚п≥
+GENEROUS  п╘п∙п■п═п╚п≥
+GENIUS  п⌠п∙п²п≤п░п⌡п╛п²п╚п≥
+GENTLE  п°п╞п⌠п п≤п≥
+GLAD  п■п·п▓п·п⌡п╛п²п╚п≥
+GREEDY  п√п░п■п²п╚п≥
+HAPPY  п║п╖п░п║п╒п⌡п≤п▓п╚п≥
+HARD-WORKING  п╒п═пёп■п·п⌡п╝п▒п≤п▓п╚п≥
+HONEST  п╖п∙п║п╒п²п╚п≥
+INTELLIGENT  пёп°п²п╚п≥
+JEALOUS  п≈п░п▓п≤п║п╒п⌡п≤п▓п╚п≥
+KIND  п■п·п▒п═п╚п≥
+LAZY  п⌡п∙п²п≤п▓п╚п≥
+LOYAL  п▓п∙п═п²п╚п≥
+LUCKY  пёп■п░п╖п⌡п≤п▓п╚п≥
+PERSISTENT  п║п╒п·п≥п п≤п≥
+SADNESS  п÷п∙п╖п░п⌡п╛
+SPLEEN  п╔п░п²п■п═п░
+AFFAIR  п■п∙п⌡п·
+MOODY  п╔п°пёп═п╚п≥
+NERVOUS  п²п∙п═п▓п²п╚п≥
+OPEN  п·п╒п п═п╚п╒п╚п≥
+OPTIMISTIC  п·п÷п╒п≤п°п≤п║п╒п≤п╖п²п╚п≥
+PATIENT  п╒п∙п═п÷п∙п⌡п≤п▓п╚п≥
+PROUD  п⌠п·п═п■п╚п≥
+QUIET  п╒п≤п╔п≤п≥
+RELIABLE  п²п░п■п∙п√п²п╚п≥
+ROMANTIC  п═п·п°п░п²п╒п≤п╖п²п╚п≥
+RUDE  п⌠п═пёп▒п╚п≥
+SAD  п⌠п═пёп║п╒п²п╚п≥
+SHY  п║п╒п∙п║п²п≤п╒п∙п⌡п╛п²п╚п≥
+SENSITIVE  п╖пёп▓п║п╒п▓п≤п╒п∙п⌡п╛п²п╚п≥
+SERIOUS  п║п∙п═п╛п∙п≈п²п╚п≥
+STUPID  п⌠п⌡пёп÷п╚п≥
+TALENTED  п╒п░п⌡п░п²п╒п⌡п≤п▓п╚п≥
+TOUGH  п√п∙п║п╒п п≤п≥
+UPSET  п═п░п║п║п╒п═п·п∙п²п²п╚п≥
+WISE  п°пёп■п═п╚п≥
+WITTY  п·п║п╒п═п·пёп°п²п╚п≥
+TO ACT  п■п∙п≥п║п╒п▓п·п▓п░п╒п╛
+TO BEHAVE  п▓п∙п║п╒п≤ п║п∙п▒п╞
+TO TELL  п═п░п║п║п п░п≈п╚п▓п░п╒п╛
+TO TRY  п║п╒п░п═п░п╒п╛п║п╞
+ADOPTION  пёп║п╚п²п·п▓п⌡п∙п²п≤п∙
+AUNT  п╒п│п╒п╞
+BOYFRIEND  п÷п░п═п∙п²п╛ (п■п═пёп⌠)
+BRIDE  п²п∙п▓п∙п║п╒п░
+BROTHER  п▒п═п░п╒
+BROTHER-IN-LAW  п╗пёп═п≤п², п■п∙п▓п∙п═п╛
+COUSIN  п пёп≈п≤п²п░
+DAUGHTER  п■п·п╖п╛
+DAUGHTER-IN-LAW  п║п²п·п╔п░, п²п∙п▓п∙п║п╒п п░
+DIVORCE  п═п░п≈п▓п·п■
+ENGAGEMENT  п÷п·п°п·п⌡п▓п п░
+EX-HUSBAND  п▒п╚п▓п╗п≤п≥ п°пёп√
+EX-WIFE  п▒п╚п▓п╗п░п╞ п√п∙п²п░
+FAMILY  п║п∙п°п╛п╞
+FATHER  п·п╒п∙п╕
+FOSTER FAMILY  п÷п═п≤п∙п°п²п░п╞ п║п∙п°п╛п╞
+FRIEND  п■п═пёп⌠
+GIRLFRIEND  п■п∙п▓пёп╗п п░ (п÷п·п■п═пёп⌠п░)
+GODFATHER  п п═п∙п║п╒п²п╚п≥ п·п╒п∙п╕
+GODMOTHER  п п═п∙п║п╒п²п░п╞ п°п░п╒п╛
+GRANDCHILDREN  п▓п²пёп п≤
+GRANDDAUGHTER  п▓п²пёп╖п п░
+GRANDFATHER  п■п∙п■пёп╗п п░
+GRANDMOTHER  п▒п░п▒пёп╗п п░
+GRANDPARENTS  п▒п░п▒пёп╗п п░,п■п∙п■пёп╗п п░
+GRANDSON  п▓п²пёп 
+HUSBAND  п°пёп√
+LOVER  п⌡п╝п▒п·п▓п²п≤п (-п╕п░)
+MARRIAGE  п▒п═п░п 
+MOTHER  п°п░п╒п╛
+MOTHER-IN-LAW  п╒п∙п╘п░, п║п▓п∙п п═п·п▓п╛
+NEPHEW  п÷п⌡п∙п°п╞п²п²п≤п 
+NIECE  п÷п⌡п∙п°п╞п²п²п≤п╕п░
+PARENTS  п═п·п■п≤п╒п∙п⌡п≤
+RELATIVE  п═п·п■п║п╒п▓п∙п²п²п≤п 
+SISTER  п║п∙п║п╒п═п░
+SON  п║п╚п²
+STEPBROTHER  п║п▓п·п■п²п╚п≥ п▒п═п░п╒
+STEPFATHER  п·п╒п╖п≤п°
+STEPMOTHER  п°п░п╖п∙п╔п░
+STEPSISTER  п║п▓п·п■п²п░п╞ п║п∙п║п╒п═п░
+TWINS  п▒п⌡п≤п≈п²п∙п╕п╚
+UNCLE  п■п╞п■п╞
+WEDDING  п║п▓п░п■п╛п▒п░
+WIDOW  п▓п■п·п▓п░
+WIDOWER  п▓п■п·п▓п∙п╕
+WIFE  п√п∙п²п░
+TO CARE  п≈п░п▒п·п╒п≤п╒п╛п║п╞
+TO LOVE  п⌡п╝п▒п≤п╒п╛
+TO MISS  п║п пёп╖п░п╒п╛
+TO SUPPORT  п÷п·п■п■п∙п═п√п≤п▓п░п╒п╛
+BELT  п═п∙п°п∙п²п╛
+BLOUSE  п▒п⌡пёп≈п п░
+BOOTS  п▒п·п╒п≤п²п п≤
+BRACELET  п▒п═п░п║п⌡п∙п╒
+CAP  п п∙п÷п п░
+CHAIN  п╕п∙п÷п·п╖п п░
+CLOAK  п÷п⌡п░п╘
+CLOTHES  п·п■п∙п√п■п░
+COAT  п÷п░п⌡п╛п╒п·
+DRESS  п÷п⌡п░п╒п╛п∙
+EARRINGS  п║п∙п═п╛п⌠п≤
+HAT  п╗п⌡п╞п÷п░
+HIGH BOOTS  п║п░п÷п·п⌠п≤
+HIGH HEELS  п▓п╚п║п·п п≤п∙ п п░п▒п⌡пёп п≤
+HOODIE  п╔пёп■п≤, п╒п·п⌡п║п╒п·п▓п п░
+JACKET  п÷п≤п■п√п░п 
+JEANS  п■п√п≤п²п║п╚
+NECKLACE  п·п√п∙п═п∙п⌡п╛п∙
+POCKET  п п░п═п°п░п²
+PYJAMAS  п÷п≤п√п░п°п░
+RAINCOAT  п÷п⌡п░п╘-п■п·п√п■п∙п▓п≤п 
+RING  п п·п⌡п╛п╕п·
+SHIRT  п═пёп▒п░п╗п п░
+SHOES  п╒пёп╓п⌡п≤
+SHORTS  п╗п·п═п╒п╚
+SKIRT  п╝п▒п п░
+SLIPPERS  п╒п░п÷п·п╖п п≤
+SOCKS  п²п·п║п п≤
+SPORTSWEAR  п║п÷п·п═п╒ п п·п║п╒п╝п°
+SUIT  п п·п║п╒п╝п°
+SWEATER  п║п▓п≤п╒п∙п═
+SWIMWEAR  п пёп÷п░п⌡п╛п²п≤п 
+TRAINERS  п п═п·п║п║п·п▓п п≤
+T-SHIRT  п╓пёп╒п▒п·п⌡п п░
+UMBRELLA  п≈п·п²п╒
+UNDERWEAR  п²п≤п√п²п∙п∙ п▒п∙п⌡п╛п∙
+UNIFORM  пёп²п≤п╓п·п═п°п░
+ZIP  п≈п░п║п╒п∙п√п п░-п°п·п⌡п²п≤п╞
+TO DRESS UP  п²п░п═п╞п√п░п╒п╛п║п╞
+TO TRY ON  п÷п═п≤п°п∙п═п≤п╒п╛
+TO WEAR  п²п·п║п≤п╒п╛
+TO ZIP UP  п≈п░п║п╒п∙п⌠п²пёп╒п╛
+APPLE  п╞п▒п⌡п·п п·
+BACON  п▒п∙п п·п²
+BANANA  п▒п░п²п░п²
+BEEF  п⌠п·п▓п╞п■п≤п²п░
+BERRIES  п╞п⌠п·п■п╚
+BISCUITS  п÷п∙п╖п∙п²п╛п∙
+BREAKFAST  п≈п░п▓п╒п═п░п 
+BUTTER  п°п░п║п⌡п·
+CARROT  п°п·п═п п·п▓п╛
+CEREAL  п╔п⌡п·п÷п╛п╞
+CHICKEN  п пёп═п≤п╕п░
+COFFEE  п п·п╓п∙
+CORN  п пёп пёп═пёп≈п░
+CUCUMBER  п·п⌠пёп═п∙п╕
+DINNER  пёп√п≤п²
+DRINKS  п²п░п÷п≤п╒п п≤
+DUCK  пёп╒п п░
+AUBERGINE  п▒п░п п⌡п░п√п░п²
+FISH  п═п╚п▒п░
+FRUITS  п╓п═пёп п╒п╚
+GARLIC  п╖п∙п║п²п·п 
+GRAPES  п▓п≤п²п·п⌠п═п░п■
+HAM  п▓п∙п╒п╖п≤п²п░
+JAM  п▓п░п═п∙п²п╛п∙
+JUICE  п║п·п 
+LEMON  п⌡п≤п°п·п²
+LETTUCE  п║п░п⌡п░п╒-п⌡п░п╒пёп 
+LUNCH  п·п▒п∙п■
+MILK  п°п·п⌡п·п п·
+MINERAL WATER  п°п≤п²п∙п═п░п⌡п п░
+MUSHROOM  п⌠п═п≤п▒
+NUTS  п·п═п∙п╔п≤
+ONION  п⌡пёп 
+PANCAKE  п▒п⌡п≤п²п╖п≤п 
+PEACH  п÷п∙п═п║п≤п 
+PEPPER  п÷п∙п═п∙п╕
+PINEAPPLE  п░п²п░п²п░п║
+PLUM  п║п⌡п≤п▓п░
+PORK  п║п▓п≤п²п≤п²п░
+POTATO  п п░п═п╒п·п╓п∙п⌡п╛
+SALMON  п⌡п·п║п·п║п╛
+SANDWICH  п║п╜п²п■п▓п≤п╖
+SAUSAGE  п п·п⌡п▒п░п║п░
+SHRIMP  п п═п∙п▓п∙п╒п п░
+SNACK  п÷п∙п═п∙п пёп║
+SODA  п⌠п░п≈п≤п═п·п▓п п░
+STRAWBERRY  п п⌡пёп▒п²п≤п п░
+TASTE  п▓п пёп║
+TEA  п╖п░п≥
+TOAST  п╒п·п║п╒
+TOMATO  п÷п·п°п≤п■п·п═
+TURKEY  п≤п²п■п∙п≥п п░
+VEGETABLES  п·п▓п·п╘п≤
+WATER  п▓п·п■п░
+WATERMELON  п░п═п▒пёп≈
+YOGHURT  п≥п·п⌠пёп═п╒
+TO BAKE  п÷п∙п╖п╛
+TO BOIL  п п≤п÷п∙п╒п╛, п▓п░п═п≤п╒п╛
+TO COOK  п⌠п·п╒п·п▓п≤п╒п╛
+TO COOL  п·п╔п⌡п░п√п■п░п╒п╛
+TO CUT  п═п∙п≈п░п╒п╛
+TO DRINK  п÷п≤п╒п╛
+TO EAT  п∙п║п╒п╛
+TO FRY  п√п░п═п≤п╒п╛
+TO HEAT  п÷п·п■п·п⌠п═п∙п▓п░п╒п╛
+TO STEW  п╒пёп╗п≤п╒п╛
+TO TASTE  п÷п═п·п▒п·п▓п░п╒п╛
+ACTOR  п░п п╒п∙п═
+ARTIST  п╔пёп■п·п√п²п≤п 
+BREAK  п÷п∙п═п∙п═п╚п▓
+CAREER  п п░п═п╛п∙п═п░
+COMPANY  п п·п°п÷п░п²п≤п╞
+COOK  п÷п·п▓п░п═
+DESIGNER  п■п≤п≈п░п≥п²п∙п═
+DIRECTOR  п■п≤п═п∙п п╒п·п═
+DOCTOR  п▓п═п░п╖
+ENGINEER  п≤п²п√п∙п²п∙п═
+FIREFIGHTER  п÷п·п√п░п═п²п╚п≥
+HOUSEWIFE  п■п·п°п·п╔п·п≈п╞п≥п п░
+INTERVIEW  п║п·п▒п∙п║п∙п■п·п▓п░п²п≤п∙
+JOB  п═п░п▒п·п╒п░
+JOURNALIST  п√пёп═п²п░п⌡п≤п║п╒
+LAWYER  п╝п═п≤п║п╒
+MEETING  п▓п║п╒п═п∙п╖п░
+MONEY  п■п∙п²п╛п⌠п≤
+MUSICIAN  п°пёп≈п╚п п░п²п╒
+OFFICE  п·п╓п≤п║
+PHOTOGRAPHER  п╓п·п╒п·п⌠п═п░п╓
+POLICEMAN  п÷п·п⌡п≤п╕п∙п≥п║п п≤п≥
+PROFESSIONAL  п÷п═п·п╓п∙п║п║п≤п·п²п░п⌡
+PROGRAMMER  п÷п═п·п⌠п═п░п°п°п≤п║п╒
+PUPIL  пёп╖п∙п²п≤п 
+SALARY  п≈п░п═п÷п⌡п░п╒п░
+SCIENTIST  пёп╖п∙п²п╚п≥
+SINGER  п÷п∙п▓п∙п╕
+SPORTSMAN  п║п÷п·п═п╒п║п°п∙п²
+SKILL  п²п░п▓п╚п 
+STUDENT  п║п╒пёп■п∙п²п╒
+TASK  п≈п░п■п░п╖п░
+TEACHER  пёп╖п≤п╒п∙п⌡п╛
+TO EARN  п≈п░п═п░п▒п░п╒п╚п▓п░п╒п╛
+TO LEARN  пёп╖п≤п╒п╛ п╖п╒п·-п⌡п≤п▒п·
+TO MANAGE  пёп÷п═п░п▓п⌡п╞п╒п╛
+TO ORDER  п≈п░п п░п≈п╚п▓п░п╒п╛
+TO ORGANISE  п·п═п⌠п░п²п≤п≈п·п▓п╚п▓п░п╒п╛
+TO STUDY  пёп╖п≤п╒п╛(-п║п╞)
+TO TEACH  п÷п═п∙п÷п·п■п░п▓п░п╒п╛
+TO WORK  п═п░п▒п·п╒п░п╒п╛
+APARTMENT  п п▓п░п═п╒п≤п═п░
+BASEMENT  п÷п·п■п▓п░п⌡
+CEILING  п÷п·п╒п·п⌡п·п 
+FLOOR  п÷п·п⌡ (п╜п╒п░п√)
+HOME  п■п·п° (п°п∙п║п╒п·)
+HOUSE  п■п·п° (п≈п■п░п²п≤п∙)
+NEIGHBOUR  п║п·п║п∙п■
+ROOF  п п═п╚п╗п░
+STAIRS  п⌡п∙п║п╒п²п≤п╕п░
+WALL  п║п╒п∙п²п░
+YARD  п■п▓п·п═
+ARMCHAIR  п п═п∙п║п⌡п·
+BOOKCASE  п п²п≤п√п²п╚п≥ п╗п п░п╓
+CARPET  п п·п▓п∙п═
+COFFEE TABLE  п п·п╓п∙п≥п²п╚п≥ п║п╒п·п⌡п≤п 
+COMPUTER  п п·п°п÷п╛п╝п╒п∙п═
+CURTAINS  п╗п╒п·п═п╚
+DESK  п═п░п▒п·п╖п≤п≥ п║п╒п·п⌡
+LAMP  п⌡п░п°п÷п░
+LAPTOP  п²п·пёп╒п▒пёп 
+LIVING ROOM  п⌠п·п║п╒п≤п²п░п╞
+PAINTING  п п░п═п╒п≤п²п░
+п╓п·п╒п·п═п░п°п п░  PICTURE FRAME
+SOFA  п■п≤п▓п░п²
+TV  п╒п∙п⌡п∙п▓п≤п≈п·п═
+BATH  п▓п░п²п²п░
+BATHROBE  п▒п░п²п²п╚п≥ п╔п░п⌡п░п╒
+BATHROOM  п▓п░п²п²п░п╞ п п·п°п²п░п╒п░
+BUBBLES  п÷пёп≈п╚п═п╛п п≤
+MIRROR  п≈п∙п═п п░п⌡п·
+RAZOR  п▒п═п≤п╒п▓п░
+SHAMPOO  п╗п░п°п÷пёп²п╛
+SHOWER  п■пёп╗
+SOAP  п°п╚п⌡п·
+SPONGE  п⌠пёп▒п п░
+TOILET  пёп²п≤п╒п░п≈
+TOOTHBRUSH  п≈пёп▒п²п░п╞ п╘п∙п╒п п░
+TOOTHPASTE  п≈пёп▒п²п░п╞ п÷п░п║п╒п░
+TOWEL  п÷п·п⌡п·п╒п∙п²п╕п∙
+ALARM CLOCK  п▒пёп■п≤п⌡п╛п²п≤п 
+BED  п п═п·п▓п░п╒п╛
+BEDROOM  п║п÷п░п⌡п╛п²п╞
+BLANKET  п·п■п∙п╞п⌡п·
+CLOSET  п║п╒п∙п²п²п·п≥ п╗п п░п╓
+HAIRBRUSH  п═п░п║п╖п∙п║п п░
+HANGER  п▓п∙п╗п░п⌡п п░
+LIGHT SWITCH  п▓п╚п п⌡п╝п╖п░п╒п∙п⌡п╛
+PHONE  п╒п∙п⌡п∙п╓п·п²
+PILLOW  п÷п·п■пёп╗п п░
+SHEET  п÷п═п·п║п╒п╚п²п╞
+BOWL  п°п≤п║п п░
+CHAIR  п║п╒пёп⌡
+COOKER  п÷п⌡п≤п╒п░
+CUP  п╖п░п╗п п░
+FORK  п▓п≤п⌡п п░
+FREEZER  п°п·п═п·п≈п≤п⌡п п░
+FRIDGE  п╔п·п⌡п·п■п≤п⌡п╛п²п≤п 
+GLASS  п▒п·п п░п⌡
+KETTLE  п╖п░п≥п²п≤п 
+KITCHEN  п пёп╔п²п╞
+KNIFE  п²п·п√
+MUG  п п═пёп√п п░
+PLATE  п╒п░п═п∙п⌡п п░
+SPOON  п⌡п·п√п п░
+TABLE  п║п╒п·п⌡
+TO BRUSH TEETH  п╖п≤п║п╒п≤п╒п╛ п≈пёп▒п╚
+TO CLEAN  п╖п≤п║п╒п≤п╒п╛
+TO DRY  п║пёп╗п≤п╒п╛
+TO LIVE  п√п≤п╒п╛
+TO SLEEP  п║п÷п░п╒п╛
+TO TAKE A BATH  п÷п═п≤п²п≤п°п░п╒п╛ п▓п░п²п²пё
+TO WASH  п°п╚п╒п╛
+BASKETBALL  п▒п░п║п п∙п╒п▒п·п⌡
+BILLIARDS  п▒п≤п⌡п╛п╞п═п■
+BOOK  п п²п≤п⌠п░
+BOWLING  п▒п·пёп⌡п≤п²п⌠
+DANCE  п╒п░п²п∙п╕
+CARDS  п п░п═п╒п╚
+CHESS  п╗п░п╔п°п░п╒п╚
+CINEMA  п п≤п²п·
+CIRCUS  п╕п≤п═п 
+COLLECTING  п п·п⌡п⌡п∙п п╕п≤п·п²п≤п═-п²п≤п∙
+COMICS  п п·п°п≤п п║п╚
+COMPUTER GAMES  п▓п≤п■п∙п·п≤п⌠п═п╚
+CROSSWORDS  п п═п·п║п║п▓п·п═п■п╚
+DIVING  п■п░п≥п▓п≤п²п⌠
+DRAWING  п═п≤п║п·п▓п░п²п≤п∙
+FISHING  п═п╚п▒п░п⌡п п░
+FITNESS  п╓п≤п╒п²п∙п║
+FOOTBALL  п╓пёп╒п▒п·п⌡
+HOCKEY  п╔п·п п п∙п≥
+HUNT  п·п╔п·п╒п░
+KNITTING  п▓п╞п≈п░п²п≤п∙
+MODEL  п°п·п■п∙п⌡п╛
+MUSIC  п°пёп≈п╚п п░
+PHOTO  п╓п·п╒п·п⌠п═п░п╓п≤п╞
+POETRY  п÷п·п╜п≈п≤п╞
+READING  п╖п╒п∙п²п≤п∙
+RUNNING  п▒п∙п⌠
+SCULPTURE  п║п пёп⌡п╛п÷п╒пёп═п░
+SHOPPING  п╗п·п÷п≤п²п⌠
+SINGING  п÷п∙п²п≤п∙
+SKIING  п п░п╒п░п²п≤п∙ п²п░ п⌡п╚п√п░п╔
+SWIMMING  п÷п⌡п░п▓п░п²п≤п∙
+TENNIS  п╒п∙п²п²п≤п║
+THEATRE  п╒п∙п░п╒п═
+VOLLEYBALL  п▓п·п⌡п∙п≥п▒п·п⌡
+YOGA  п≥п·п⌠п░
+TO DANCE  п╒п░п²п╕п∙п▓п░п╒п╛
+GARDENING  п║п░п■п·п▓п·п■п║п╒п▓п·
+TO DRAW  п═п≤п║п·п▓п░п╒п╛
+п║п·п▒п≤п═п░п╒п╛ п⌠п═п≤п▒п╚  TO MUSHROOMING
+п≤п⌠п═п░п╒п╛ п²п░ п⌠п≤п╒п░п═п∙  PLAY THE GUITAR
+п≤п⌠п═п░ п²п░ п÷п≤п░п²п≤п²п·  PLAY THE PIANO
+TO READ  п╖п≤п╒п░п╒п╛
+TO RUN  п▒п∙п⌠п░п╒п╛
+TO SING  п÷п∙п╒п╛
+TO SWIM  п÷п⌡п░п▓п░п╒п╛
+AGENCY  п░п⌠п∙п²п╒п║п╒п▓п·
+AIRLINES  п░п▓п≤п░п⌡п≤п²п≤п≤
+AIRPORT  п░п╜п═п·п÷п·п═п╒
+ATTRACTIONS  п■п·п║п╒п·п÷п═п≤п°-п║п╒п≤
+BACKPACK  п═п╝п п≈п░п 
+BAG  п║пёп°п п░
+BAGGAGE  п▒п░п⌠п░п√
+BEACH  п÷п⌡п╞п√
+BICYCLE  п▓п∙п⌡п·п║п≤п÷п∙п■
+BONFIRE  п п·п║п╒п∙п═
+BORDER  п⌠п═п░п²п≤п╕п░
+BRONZED  п≈п░п⌠п·п═п∙п⌡п╚п≥
+BUS  п░п▓п╒п·п▒пёп║
+CAMP  п⌡п░п⌠п∙п═п╛
+CAPITAL  п║п╒п·п⌡п≤п╕п░
+CITY  п⌠п·п═п·п■
+CRUISE  п п═пёп≤п≈
+CURRENCY  п▓п░п⌡п╝п╒п░
+DIRECTION  п²п░п÷п═п░п▓п⌡п∙п²п≤п∙
+EAST  п▓п·п║п╒п·п 
+EXOTIC  п╜п п≈п·п╒п≤п╖п∙п║п п≤п≥
+FOREIGN  п≤п²п·п║п╒п═п░п²п²п╚п≥
+FOREIGNER  п≤п²п·п║п╒п═п░п²п∙п╕
+HIKE  п÷п·п╔п·п■
+HOTEL  п·п╒п∙п⌡п╛, п⌠п·п║п╒п≤п²п≤п╕п░
+JOURNEY  п÷пёп╒п∙п╗п∙п║п╒п▓п≤п∙
+LOCAL  п°п∙п║п╒п²п╚п≥
+MAP  п п░п═п╒п░
+MOTORCYCLE  п°п·п╒п·п╕п≤п п⌡
+MOUNTAIN  п⌠п·п═п░
+NORTH  п║п∙п▓п∙п═
+PASSPORT  п÷п░п║п÷п·п═п╒
+PLANE  п║п░п°п·п⌡п∙п╒
+POSTCARD  п·п╒п п═п╚п╒п п░
+RAILWAY  п√п∙п⌡п∙п≈п²п░п╞ п■п·п═п·п⌠п░
+REST  п·п╒п■п╚п╔
+ROOM  п²п·п°п∙п═, п п·п°п²п░п╒п░
+ROUTE  п°п░п═п╗п═пёп╒
+SHIP  п п·п═п░п▒п⌡п╛
+SOUTH  п╝п⌠
+SOUVENIR  п║пёп▓п∙п²п≤п═
+SUITCASE  п╖п∙п°п·п■п░п²
+TAXI  п╒п░п п║п≤
+TENT  п÷п░п⌡п░п╒п п░
+TICKET  п▒п≤п⌡п∙п╒
+TOURISM  п╒пёп═п≤п≈п°
+TRAIN  п÷п·п∙п≈п■
+TRIP  п÷п·п∙п≈п■п п░
+VACATION  п·п╒п÷пёп║п , п п░п²п≤п пёп⌡п╚
+VISA  п▓п≤п≈п░
+WEST  п≈п░п÷п░п■
+TO ARRIVE  п÷п═п≤п▒п╚п╒п╛
+TO BOOK  п≈п░п▒п═п·п²п≤п═п·п▓п░п╒п╛
+TO BUY  п пёп÷п≤п╒п╛
+TO CHANGE TO  п÷п∙п═п∙п║п░п√п≤п▓п░п╒п╛п║п╞
+TO GET A SUNTAN  п≈п░п⌠п·п═п░п╒п╛
+TO LAND  п÷п═п≤п≈п∙п°п⌡п╞п╒п╛п║п╞
+TO REST  п·п╒п■п╚п╔п░п╒п╛
+BLACK  п╖п∙п═п²п╚п≥
+BLUE  п║п≤п²п≤п≥
+BROWN  п п·п═п≤п╖п²п∙п▓п╚п≥
+COLOUR  п╕п▓п∙п╒
+DARK BLUE  п╒п∙п°п²п·-п║п≤п²п≤п≥
+GOLD  п≈п·п⌡п·п╒п≤п║п╒п╚п≥
+GREEN  п≈п∙п⌡п∙п²п╚п≥
+GREY  п║п∙п═п╚п≥
+LIGHT BLUE  п⌠п·п⌡пёп▒п·п≥
+ORANGE  п·п═п░п²п√п∙п▓п╚п≥
+PINK  п═п·п≈п·п▓п╚п≥
+RED  п п═п░п║п²п╚п≥
+SHADE  п·п╒п╒п∙п²п·п 
+SILVER  п║п∙п═п∙п▒п═п≤п║п╒п╚п≥
+VIOLET  п╓п≤п·п⌡п∙п╒п·п▓п╚п≥
+WHITE  п▒п∙п⌡п╚п≥
+YELLOW  п√п∙п⌡п╒п╚п≥
+TO PAINT  п п═п░п║п≤п╒п╛
+CRAFT  п°п░п║п╒п∙п═п║п╒п▓п·
+BIG  п▒п·п⌡п╛п╗п·п≥
+CIRCLE  п п═пёп⌠
+COOL  п÷п═п·п╔п⌡п░п■п²п╚п≥
+FAR  п■п░п⌡п∙п п≤п≥
+FAST  п▒п╚п║п╒п═п╚п≥
+FLUFFY  п÷пёп╗п≤п║п╒п╚п≥
+GOOD  п╔п·п═п·п╗п≤п≥
+HARD  п√п∙п║п╒п п≤п≥, п╒п▓п∙п═п■п╚п≥
+HEAVY  п╒п╞п√п∙п⌡п╚п≥
+HIGH  п▓п╚п║п·п п≤п≥
+HOT  п⌠п·п═п╞п╖п≤п≥
+LARGE  п п═пёп÷п²п╚п≥
+LENGTH  п■п⌡п≤п²п░
+LIGHT  п⌡п∙п⌠п п≤п≥
+LINE  п⌡п≤п²п≤п╞
+LONG  п■п⌡п≤п²п²п╚п≥
+LOUD  п⌠п═п·п°п п≤п≥
+LOW  п²п≤п≈п п≤п≥
+NEW  п²п·п▓п╚п≥
+OLD  п║п╒п░п═п╚п≥
+QUICK  п▒п╚п║п╒п═п╚п≥
+ROUND  п п═пёп⌠п⌡п╚п≥
+SHAPE  п╓п·п═п°п░
+SHARP  п·п║п╒п═п╚п≥
+SHORT  п п·п═п·п╒п п≤п≥
+SIZE  п═п░п≈п°п∙п═
+SLOW  п°п∙п■п⌡п∙п²п²п╚п≥
+SMALL  п°п░п⌡п∙п²п╛п п≤п≥
+SMOOTH  п⌠п⌡п░п■п п≤п≥
+SOFT  п°п╞п⌠п п≤п≥
+SPEED  п║п п·п═п·п║п╒п╛
+SQUARE   п п▓п░п■п═п░п╒п²п╚п≥
+WARM  п╒п∙п÷п⌡п╚п≥
+WEIGHT  п▓п∙п║
+GROWTH  п═п·п║п╒
+RAISE  п÷п·п■п²п≤п°п░п╒п╛
+CUSTOMERS  п п⌡п≤п∙п²п╒п╚
+FEEDBACK  п·п▒п═п░п╒п²п░п╞ п║п▓п╞п≈п╛
+REVIEW  п·п▒п≈п·п═
+LESS  п°п∙п²п╛п╗п∙
+INCREASE  пёп▓п∙п⌡п≤п╖п∙п²п≤п∙
+HIRE  п²п░п²п≤п°п░п╒п╛
+EMPLOYEE  п═п░п▒п·п╒п²п≤п 
+STAFF  п÷п∙п═п║п·п²п░п⌡
+AFTERNOON  п÷п·п║п⌡п∙ п÷п·п⌡пёп■п²п╞
+CENTURY  п▓п∙п 
+DATE  п■п░п╒п░
+DAY  п■п∙п²п╛
+DECADE  п■п∙п║п╞п╒п≤п⌡п∙п╒п≤п∙
+EVENING  п▓п∙п╖п∙п═
+HOUR  п╖п░п║
+MIDNIGHT  п÷п·п⌡п²п·п╖п╛
+MINUTE  п°п≤п²пёп╒п░
+MONTH  п°п∙п║п╞п╕
+MORNING  пёп╒п═п·
+NIGHT  п²п·п╖п╛
+SECOND  п║п∙п пёп²п■п░
+TIME  п▓п═п∙п°п╞
+WEEK  п²п∙п■п∙п⌡п╞
+WEEKDAYS  п▒пёп■п²п≤
+WEEKEND  п▓п╚п╔п·п■п²п╚п∙
+YEAR  п⌠п·п■
+MONDAY  п÷п·п²п∙п■п∙п⌡п╛п²п≤п 
+TUESDAY  п▓п╒п·п═п²п≤п 
+WEDNESDAY  п║п═п∙п■п░
+THURSDAY  п╖п∙п╒п▓п∙п═п⌠
+FRIDAY  п÷п╞п╒п²п≤п╕п░
+SATURDAY  п║пёп▒п▒п·п╒п░
+SUNDAY  п▓п·п║п п═п∙п║п∙п²п╛п∙
+WINTER  п≈п≤п°п░
+SPRING  п▓п∙п║п²п░
+SUMMER  п⌡п∙п╒п·
+AUTUMN  п·п║п∙п²п╛
+JANUARY  п╞п²п▓п░п═п╛
+FEBRUARY  п╓п∙п▓п═п░п⌡п╛
+MARCH  п°п░п═п╒
+APRIL  п░п÷п═п∙п⌡п╛
+MAY  п°п░п≥
+JUNE  п≤п╝п²п╛
+JULY  п≤п╝п⌡п╛
+AUGUST  п░п▓п⌠пёп║п╒
+SEPTEMBER  п║п∙п²п╒п╞п▒п═п╛
+OCTOBER  п·п п╒п╞п▒п═п╛
+NOVEMBER  п²п·п╞п▒п═п╛
+DECEMBER  п■п∙п п░п▒п═п╛
+FLUSH  п·п╖п≤п║п╒п≤п╒п╛
+REVERT  п▓п·п≈п▓п═п░п╘п░п╒п╛п║п╞
+AIR  п▓п·п≈п■пёп╔
+BLIZZARD  п°п∙п╒п∙п⌡п╛
+CHILLY  п÷п═п·п╔п⌡п░п■п²п╚п≥
+CLEAR  п╖п≤п║п╒п╚п≥
+CLOUD  п·п▒п⌡п░п п·
+CLOUDY  п·п▒п⌡п░п╖п²п╚п≥
+COLD  п╔п·п⌡п·п■, п╔п·п⌡п·п■п²п╚п≥
+FOG  п╒пёп°п░п²
+FOGGY  п╒пёп°п░п²п²п╚п≥
+FROSTY  п°п·п═п·п≈п²п╚п≥
+HOT  п√п░п═п п≤п≥
+ICE  п⌡п∙п■
+ICY  п⌡п∙п■п╞п²п·п≥
+LIGHTNING  п°п·п⌡п²п≤п╞
+MOON  п⌡пёп²п░
+MUD  п⌠п═п╞п≈п╛
+PUDDLE  п⌡пёп√п░
+RAIN  п■п·п√п■п╛
+RAINBOW  п═п░п■пёп⌠п░
+RAINY  п■п·п√п■п⌡п≤п▓п╚п≥
+SKY  п²п∙п▒п·
+SNOW  п║п²п∙п⌠
+SNOWFALL  п║п²п∙п⌠п·п÷п░п■
+SNOWFLAKE  п║п²п∙п√п≤п²п п░
+SNOWY  п║п²п∙п√п²п╚п≥
+STAR  п≈п▓п∙п≈п■п░
+STARRY  п≈п▓п∙п≈п■п²п╚п≥
+SUN  п║п·п⌡п²п╕п∙
+SUNLIGHT  п║п·п⌡п²п∙п╖п²п╚п≥ п║п▓п∙п╒
+SUNNY  п║п·п⌡п²п∙п╖п²п╚п≥
+SUNRISE  п═п░п║п║п▓п∙п╒
+SUNSET  п≈п░п п░п╒
+THUNDER  п⌠п═п·п°
+THUNDERSTORM  п⌠п═п·п≈п░
+WEATHER  п÷п·п⌠п·п■п░
+WIND  п▓п∙п╒п∙п═
+WINDY  п▓п∙п╒п═п∙п²п╚п≥
+TO BEAT  п║п╒пёп╖п░п╒п╛
+TO BLOW  п■пёп╒п╛
+TO COVER UP  п÷п·п п═п╚п▓п░п╒п╛
+TO DARKEN  п╒п∙п°п²п∙п╒п╛
+TO DRIP  п п░п÷п░п╒п╛
+TO FALL  п÷п░п■п░п╒п╛
+TO LIGHTEN  п║п▓п∙п╒п⌡п∙п╒п╛
+TO MELT  п╒п░п╞п╒п╛
+CAVE  п÷п∙п╘п∙п═п░
+CLIFF  п║п п░п⌡п░
+DESERT  п÷пёп║п╒п╚п²п╞
+DUST  п÷п╚п⌡п╛
+FIELD  п÷п·п⌡п∙
+FOREST  п⌡п∙п║
+GROUND  п≈п∙п°п⌡п╞
+HILL  п╔п·п⌡п°
+ISLAND  п·п║п╒п═п·п▓
+JUNGLE  п■п√пёп²п⌠п⌡п≤
+LAKE  п·п≈п∙п═п·
+MOUNTAIN  п⌠п·п═п░
+NATURE  п÷п═п≤п═п·п■п░
+OCEAN  п·п п∙п░п²
+POND  п÷п═пёп■
+RIVER  п═п∙п п░
+SAND  п÷п∙п║п·п 
+SEA  п°п·п═п∙
+STONE  п п░п°п∙п²п╛
+STREAM  п═пёп╖п∙п≥
+SWAMP  п▒п·п⌡п·п╒п·
+WAVE  п▓п·п⌡п²п░
+ANIMAL  п√п≤п▓п·п╒п²п·п∙
+BEAK  п п⌡п╝п▓
+CLAW  п п·п⌠п·п╒п╛
+FEATHER  п÷п∙п═п·
+FUR  п╗п∙п═п║п╒п╛
+BULL  п▒п╚п 
+CAT  п п·п╗п п░
+CHICKEN  п пёп═п≤п╕п░
+COW  п п·п═п·п▓п░
+DOG  п║п·п▒п░п п░
+DONKEY  п·п║п∙п⌡
+GOAT  п п·п≈п░
+GOOSE  п⌠пёп║п╛
+GUINEA PIG  п°п·п═п║п п░п╞ п║п▓п≤п²п п░
+HAMSTER  п╔п·п°п╞п 
+HORSE  п⌡п·п╗п░п■п╛
+KITTEN  п п·п╒п∙п²п·п 
+MOUSE  п°п╚п╗п╛
+PARROT  п÷п·п÷пёп⌠п░п≥
+PET  п÷п≤п╒п·п°п∙п╕
+PIG  п║п▓п≤п²п╛п╞
+PUPPY  п╘п∙п²п·п 
+RABBIT  п п═п·п⌡п≤п 
+RAT  п п═п╚п║п░
+SHEEP  п·п▓п╕п░
+BEAR  п°п∙п■п▓п∙п■п╛
+CAMEL  п▓п∙п═п▒п⌡п╝п■
+CROCODILE  п п═п·п п·п■п≤п⌡
+DEER  п·п⌡п∙п²п╛
+ELEPHANT  п║п⌡п·п²
+FOX  п⌡п≤п║п░
+GIRAFFE  п√п≤п═п░п╓
+HIPPO  п▒п∙п⌠п∙п°п·п╒
+KANGAROO  п п∙п²п⌠пёп═пё
+LION  п⌡п∙п▓
+MONKEY  п·п▒п∙п≈п╛п╞п²п░
+PANDA  п÷п░п²п■п░
+RHINO  п²п·п║п·п═п·п⌠
+SNAKE  п≈п°п∙п╞
+TIGER  п╒п≤п⌠п═
+WILD  п■п≤п п≤п≥
+WOLF  п▓п·п⌡п 
+BEE  п÷п╖п∙п⌡п░
+BUG  п√пёп 
+BUTTERFLY  п▒п░п▒п·п╖п п░
+FLY  п°пёп╔п░
+INSECT  п²п░п║п∙п п·п°п·п∙
+SPIDER  п÷п░пёп 
+BIRD  п÷п╒п≤п╕п░
+DUCK  пёп╒п п░
+EAGLE  п·п═п∙п⌡
+OWL  п║п·п▓п░
+PENGUIN  п÷п≤п²п⌠п▓п≤п²
+PIGEON  п⌠п·п⌡пёп▒п╛
+RAVEN  п▓п·п═п·п²
+SPARROW  п▓п·п═п·п▒п∙п≥
+SWAN  п⌡п∙п▒п∙п■п╛
+TO BARK  п⌡п░п╞п╒п╛
+TO BITE  п пёп║п░п╒п╛
+TO CATCH  п⌡п·п▓п≤п╒п╛
+TO FEED  п п·п═п°п≤п╒п╛
+TO FLY  п⌡п∙п╒п░п╒п╛
+TO HISS  п╗п≤п÷п∙п╒п╛
+TO PET  п⌠п⌡п░п■п≤п╒п╛
+TO PURR  п°пёп═п⌡п╚п п░п╒п╛
+TO SCREAM  п п═п≤п╖п░п╒п╛
+BUSH  п пёп║п╒
+CACTUS  п п░п п╒пёп║
+FLOWER  п╕п▓п∙п╒п·п 
+GRASS  п╒п═п░п▓п░
+LEAF  п⌡п≤п║п╒
+LILY  п⌡п≤п⌡п≤п╞
+OAK  п■пёп▒
+PINE  п║п·п║п²п░
+ROOT  п п·п═п∙п²п╛
+ROSE  п═п·п≈п░
+TREE  п■п∙п═п∙п▓п·
+TO BLOOM  п╕п▓п∙п║п╒п≤
+TO FRUIT  п÷п⌡п·п■п·п²п·п║п≤п╒п╛
+TO GROW  п═п░п║п╒п≤
+TO PLANT  п║п░п√п░п╒п╛
+TO WATER  п÷п·п⌡п≤п▓п░п╒п╛
+CHRISTMAS  п═п·п√п■п∙п║п╒п▓п·
+DECORATIONS  пёп п═п░п╗п∙п²п≤п╞
+GUEST  п⌠п·п║п╒п╛
+HOLIDAY  п÷п═п░п≈п■п²п≤п 
+NEW YEAR  п²п·п▓п╚п≥ п⌠п·п■
+PRESENT  п÷п·п■п░п═п·п 
+SNOWMAN  п║п²п∙п⌠п·п▓п≤п 
+TREAT  пёп⌠п·п╘п∙п²п≤п∙
+BALLOON  п▓п·п≈п■пёп╗п²п╚п≥ п╗п░п═
+BIRTHDAY  п■п∙п²п╛ п═п·п√п■п∙п²п≤п╞
+CAKE  п╒п·п═п╒
+CANDLE  п║п▓п∙п╖п░
+PARTY  п▓п∙п╖п∙п═п≤п²п п░
+WISH  п√п∙п⌡п░п²п≤п∙
+TO BE BORN  п═п·п■п≤п╒п╛п║п╞
+TO CELEBRATE  п÷п═п░п≈п■п²п·п▓п░п╒п╛
+TO CONGRATULATE  п÷п·п≈п■п═п░п▓п⌡п╞п╒п╛
+TO ENJOY  п²п░п║п⌡п░п√п■п░п╒п╛п║п╞
+TO HAVE FUN  п═п░п≈п▓п⌡п∙п п░п╒п╛п║п╞
+TO INVITE  п÷п═п≤п⌠п⌡п░п║п≤п╒п╛
+TO LIKE  п²п═п░п▓п≤п╒п╛п║п╞
+TO MAKE A WISH  п≈п░п⌠п░п■п░п╒п╛ п√п∙п⌡п░п²п≤п∙
+TO PREPARE  п⌠п·п╒п·п▓п≤п╒п╛п║п╞
+TO VISIT  п²п░п▓п∙п╘п░п╒п╛
+BAKERY  п▒пёп⌡п·п╖п²п░п╞
+BAKERY  п÷п∙п п░п═п²п╞
+BANK  п▒п░п²п 
+BENCH  п║п п░п°п╛п╞
+BOOKSHOP  п п²п≤п√п²п╚п≥ п°п░п⌠п░п≈п≤п²
+BRIDGE  п°п·п║п╒
+BUILDING  п≈п■п░п²п≤п∙
+CAFE  п п░п╓п∙
+CAR PARK  п÷п░п═п п·п▓п п░
+CATHEDRAL  п║п·п▒п·п═
+CHEAP  п■п∙п╗п∙п▓п╚п≥
+CHURCH  п╕п∙п═п п·п▓п╛
+COIN  п°п·п²п∙п╒п░
+CORNER  пёп⌠п·п⌡
+CROSSROADS  п÷п∙п═п∙п п═п∙п║п╒п·п 
+CUSTOMER  п÷п·п пёп÷п░п╒п∙п⌡п╛
+DEAD END  п╒пёп÷п≤п 
+EXPENSIVE  п■п·п═п·п⌠п·п≥
+FOUNTAIN  п╓п·п²п╒п░п²
+HOSPITAL  п▒п·п⌡п╛п²п≤п╕п░
+LEFT  п²п░п⌡п∙п▓п·
+LIBRARY  п▒п≤п▒п⌡п≤п·п╒п∙п п░
+LIFT  п÷п·п■п²п≤п°п░п╒п╛
+MALL  п╒п·п═п⌠п·п▓п╚п≥ п╕п∙п²п╒п═
+MARKET  п═п╚п²п·п 
+MONUMENT  п÷п░п°п╞п╒п²п≤п 
+MUSEUM  п°пёп≈п∙п≥
+NIGHTCLUB  п²п·п╖п²п·п≥ п п⌡пёп▒
+PARK  п÷п░п═п 
+PRICE  п╕п∙п²п░
+RECEIPT  п╖п∙п 
+RESTAURANT  п═п∙п║п╒п·п═п░п²
+RIGHT  п²п░п÷п═п░п▓п·
+ROAD  п■п·п═п·п⌠п░
+SALE  п═п░п║п÷п═п·п■п░п√п░
+SCHOOL  п╗п п·п⌡п░
+SHOP  п°п░п⌠п░п≈п≤п²
+SQUARE  п÷п⌡п·п╘п░п■п╛
+STADIUM  п║п╒п░п■п≤п·п²
+STATION  п║п╒п░п²п╕п≤п╞
+STOP  п·п║п╒п░п²п·п▓п п░
+STREET  пёп⌡п≤п╕п░
+SUBWAY  п°п∙п╒п═п·
+SUPERMARKET  п║пёп÷п∙п═п°п░п═п п∙п╒
+UNIVERSITY  пёп²п≤п▓п∙п═п║п≤п╒п∙п╒
+VIEW  п▓п≤п■
+WAY  п÷пёп╒п╛
+ZOO  п≈п·п·п÷п░п═п 
+TO COST  п║п╒п·п≤п╒п╛
+TO CROSS  п÷п∙п═п∙п║п∙п п░п╒п╛
+TO FIND  п²п░п╔п·п■п≤п╒п╛
+TO GO  п≤п■п╒п≤
+TO PAY  п÷п⌡п░п╒п≤п╒п╛
+TO SELL  п÷п═п·п■п░п▓п░п╒п╛
+TO STOP  п·п║п╒п░п²п·п▓п≤п╒п╛п║п╞
+AS  п п░п 
+BECAUSE  п÷п·п╒п·п°пё п╖п╒п·
+BUT  п²п·
+IF  п∙п║п⌡п≤
+HOW  п п░п 
+OR  п≤п⌡п≤
+THAN  п╖п∙п°
+THAT  п п·п╒п·п═п╚п≥
+WHAT  п╖п╒п·
+WHEN  п п·п⌠п■п░
+WHERE  п⌠п■п∙
+WHICH  п п·п╒п·п═п╚п≥
+WHO  п п╒п·
+WHOM  п п·п°пё
+WHOSE  п╖п∙п≥
+YET  п·п■п²п░п п·
+ABOVE  п²п░п■
+AT  пё, п▓, п²п░
+BEHIND  п≈п░
+BELOW  п²п≤п√п∙
+BETWEEN  п°п∙п√п■пё
+BY  пё
+IN  п▓
+ON  п²п░
+UNDER  п÷п·п■
+AFTER  п÷п·п║п⌡п∙
+AT  п▓
+BEFORE  п■п·
+BY  п 
+DURING  п▓ п╒п∙п╖п∙п²п≤п∙
+IN  п▓, п╖п∙п═п∙п≈
+ON  п▓
+SINCE  п║ п╒п∙п╔ п÷п·п═, п п░п 
+UNTIL  п■п· п╒п∙п╔ п÷п·п═
+BECAUSE OF  п≤п≈-п≈п░
+FOR  п■п⌡п╞, п≈п░, п≤п≈-п≈п░
+FROM  п·п╒
+OF  п≤п≈-п≈п░, п·п╒, п÷п·
+THANKS TO  п▒п⌡п░п⌠п·п■п░п═п╞
+THROUGH  п▒п⌡п░п⌠п·п■п░п═п╞, п≤п≈-п≈п░
+ACROSS  п╖п∙п═п∙п≈
+ALONG  п▓п■п·п⌡п╛
+FROM  п·п╒
+INTO  п▓
+OUT  п≤п≈
+TO  п , п▓, п²п░
+FALCON  п║п·п п·п⌡
+OFFER  п÷п═п∙п■п⌡п·п√п∙п²п≤п∙
+DEFINITELY  п·п÷п═п∙п■п∙п⌡п│п²п²п·
+CORNER  пёп⌠п·п⌡
+DISCUSS  п·п▒п║пёп√п■п░п╒п╛
+PORCH  п п═п╚п⌡п╛п╕п·
+QUITE  п▓п÷п·п⌡п²п∙
+SUDDEN  п▓п²п∙п≈п░п÷п²п╚п≥
+STROKE  пёп■п░п═
+INTERRUPT  п÷п═п∙п═п╚п▓п░п╒п╛
+NOTICE  пёп▓п∙п■п·п°п⌡п∙п²п≤п∙
+DECIDE  п═п∙п╗п░п╒п╛
+OBJECTIONS  п▓п·п≈п═п░п√п∙п²п≤п╞
+AT LEAST  п÷п· п п═п░п≥п²п∙п≥ п°п∙п═п∙
+SPEND  п╒п═п░п╒п≤п╒п╛
+ROBBERY  п·п⌠п═п░п▒п⌡п∙п²п≤п∙
+SMELL  п≈п░п÷п░п╔
+RECENTLY  п²п∙п■п░п▓п²п·
+EXPLANATION  п·п▒п╙п╞п║п²п∙п²п≤п∙
+REALIZE  п·п║п·п≈п²п░п▓п░п╒п╛
+THE TILL  п п░п║п║п░
+STOLEN  пёп п═п░п■п∙п²п²п╚п≥
+ALTHOUGH  п╔п·п╒п╞
+ACHIEVE  п■п·п║п╒п≤п⌠п░п╒п╛
+FULFILLED  п▓п╚п÷п·п⌡п²п∙п²п²п╚п≥
+INCREASE  пёп▓п∙п⌡п≤п╖п∙п²п≤п∙
+WEAK  п║п⌡п░п▒п╚п≥
+SUPPLY  п÷п·п║п╒п░п▓п п░
+UNRECOGNIZED  п²п∙п═п░п║п÷п·п≈п²п░п²п²п╚п≥
+REPRESENTS  п÷п═п∙п■п║п╒п░п▓п⌡п╞п∙п╒
+THROWS  п▒п═п·п║п░п∙п╒
+DEPRECATED  п·п║пёп√п■п░п∙п°п╚п≥
+LOYALTY  п⌡п·п╞п⌡п╛п²п·п║п╒п╛
+LENDING  п п═п∙п■п≤п╒п·п▓п░п²п≤п∙
+RELATIONS  п·п╒п²п·п╗п∙п²п≤п∙
+SPOIL  п÷п·п═п╒п≤п╒п╛
+ABLE  п║п÷п·п║п·п▒п²п╚п≥
+ATTORNEY  п░п■п▓п·п п░п╒
+ACCURACY  п╒п·п╖п²п·п║п╒п╛
+ABILITY  п║п÷п·п║п·п▒п²п·п║п╒п╛
+UNPLEASANT  п²п∙п÷п═п≤п╞п╒п²п╚п≥
+DIARY  п■п²п∙п▓п²п≤п 
+ONCE  п·п■п²п░п√п■п╚
+SHOULD  п║п⌡п∙п■пёп∙п╒
+CROWD  п╒п·п⌡п÷п░
+GLOVE  п÷п∙п═п╖п░п╒п п░
+SENTENSE  п÷п═п∙п■п⌡п·п√п∙п²п≤п∙
+AGAINST  п÷п═п·п╒п≤п▓
+SHOUT  п п═п≤п╖п░п╒п╛
+HAPPILY  п═п░п■п·п║п╒п²п·
+FIRMNESS  п║п╒п·п≥п п·п║п╒п╛
+DECISION  п═п∙п╗п∙п²п≤п∙
+OVERCOME  п÷п═п∙п·п■п·п⌡п∙п╒п╛
+JELLY  п п·п²п╓п≤п╒п╝п═
+PEAR  п⌠п═пёп╗п░
+MELON  п■п╚п²п╞
+TURN  п·п╖п∙п═п∙п■п╛
+WHILE  п▓ п╒п· п▓п═п∙п°п╞ п п░п 
+UPSTAIRS  п²п░п▓п∙п═п╔пё
+STEAL  п п═п░п║п╒п╛
+STOLE  пёп п═п░п⌡
+WERE  п╞п▓п⌡п╞п╒п╛п║п╞
+CAPTURE  п≈п░п╔п▓п░п╒п≤п╒п╛
+WET  п°п·п п═п╚п≥
+PROPERLY  п п·п═п═п∙п п╒п²п·
+MIDDLE  п║п═п∙п■п²п≤п≥
+HORRIBLE  пёп√п░п║п²п╚п≥
+SUCH  п╒п░п п·п≥
+ADJUST  п═п∙п⌠пёп⌡п≤п═п·п▓п░п╒п╛
+BRIGHT  п╞п═п п≤п≥
+MIRACLE  п╖пёп■п·
+GRADUATES  п▓п╚п÷пёп║п п²п≤п п≤
+OCCUPATION  п÷п═п·п╓п∙п║п║п≤п╞
+FENCE  п≈п░п▒п·п═
+TIE  п≈п░п▓п╞п≈п╚п▓п░п╒п╛
+SILENT  п╒п≤п╔п≤п≥
+WIZARD  п▓п·п⌡п╗п∙п▒п²п≤п 
+EQUIPMENT  п·п▒п·п═пёп■п·п▓п░п²п≤п∙
+DECENT  п÷п·п═п╞п■п·п╖п²п╚п≥
+GRADE  п·п╕п∙п²п п░
+QUIZ  п║п░п°п·п║п╒. п═п░п▒п·п╒п░
+ELECTRICITY  п╜п⌡п∙п п╒п═п≤п╖п∙п║п╒п▓п·
+LENT  п■п░п╒п╛ п▓ п■п·п⌡п⌠
+SPEND  п╒п═п░п╒п≤п╒п╛
+KEPT  п╔п═п░п²п≤п⌡
+BORROW  п·п■п·п⌡п√п≤п╒п╛
+POLITE  п▓п∙п√п⌡п≤п▓п╚п≥
+TIP  п╖п░п∙п▓п╚п∙
+WORD  п║п⌡п·п▓п·
+STRING  п║п╒п═п·п п░
+SOON  п║п п·п═п·
+VIDEO  п▓п≤п■п∙п·
+NULL  п²п·п⌡п╛
+HORSE  п п·п²п╛
+CHERRY  п▓п≤п╗п²п╞
+STRING  п║п╒п═пёп²п░
+CORD  п▓п∙п═п∙п▓п п░
+THIN  п╒п·п²п п≤п≥
+MATCH  п║п·п▓п÷п░п■п∙п²п≤п∙
+TOGETHER  п▓п°п∙п║п╒п∙
+BODY  п п·п═п÷пёп║
+A SCREWDRIVER  п·п╒п▓п∙п═п╒п п░
+HAMMER  п°п·п⌡п·п╒п·п 
+WINDOW BLIND  п√п░п⌡п╝п≈п≤
+п≤п╘п≤ п▒п░п▒пё  п÷п░п▓п⌡п≤п 
+TRANSLATION  п÷п∙п═п∙п▓п·п■
+INTERPRETER  п÷п∙п═п∙п▓п·п■п╖п≤п 
+AMOUNT  п║пёп°п°п░
+STREAM  п÷п·п╒п·п 
+ZERO  п²п·п⌡п╛
+COULD  п°п·п╖п╛
+ENABLE  п▓п п⌡п╝п╖п∙п²п·
+DISABLE  п▓п╚п п⌡п╝п╖п∙п²п·
+TURN ON  п▓п п⌡п╝п╖п≤п╒п╛

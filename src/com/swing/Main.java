@@ -2,11 +2,16 @@ package com.swing;
 
 import javax.swing.*;
 import java.awt.*;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 public class Main {
-
+    static int forTranslateCycle = 0;
+    static ArrayList<String> rusArray = new ArrayList<>();
+    static ArrayList <String> enArray = new ArrayList<>();
+    static Boolean isRandom = true;
+    static Boolean isTranslate = false;
     static int quantityOfWords = 0;//количество слов в базе
     static int quantityOfWordsForRandom = 0;
     static String rustext = "";
@@ -65,9 +70,16 @@ public class Main {
         enWordArrayForRandom = fileDb.getEnWords(allWordArray);
         quantityOfWordsForRandom = fileDb.getQuantityOfWords();
         Random.randomVisionFunction();//запуск рандомного вывода слов
+        RandomTranslate randomTranslate = new RandomTranslate();
+        randomTranslate.start();//запуск рандомного вывода перевода
         MainWindow.setlabelQuantityOrWordsInDictionaryResult(quantityOfWords);//установить количество слов в лэйбл
         MainWindow.setlabelLevelValueResult(levelValueInt);//установить левел
         SetButtons.setAllButtons();
         Functions.setProgressStatus();
+        EnableChatWindow enableChatWindow = new EnableChatWindow(false);
+//        RandomVisionClass randomVision = new RandomVisionClass();
+//        Thread randomVisionThread = new Thread(randomVision);
+//        randomVisionThread.start();
+//        randomVisionThread.interrupt();
     }
         }

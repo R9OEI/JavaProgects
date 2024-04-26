@@ -319,6 +319,6 @@ class BtnEn6Pressed implements ActionListener {
 class setIntoDbBtnPressed implements ActionListener{
     @Override
     public void actionPerformed(ActionEvent e) {
-        Functions.setInToDB();
+        Functions.checkForTranslate();
     }
 }
