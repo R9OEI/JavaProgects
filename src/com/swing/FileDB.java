@@ -374,7 +374,7 @@ public class FileDB {
         pw.close();
     }
 
-    public int getQuantityOfAnswersFromBase(){
+    public static int getQuantityOfAnswersFromBase(){
         String encryptString = "";
         File answers = new File("files/answers.rex");
         int quantityOfAnswers = 0;
@@ -390,7 +390,7 @@ public class FileDB {
         return quantityOfAnswers;
     }
 
-    public int getQuantityOfErrorsFromBase(){
+    public static int getQuantityOfErrorsFromBase(){
         String encryptString = "";
         File errors = new File("files/errors.rex");
         int quantityOfErrors = 0;
@@ -406,7 +406,7 @@ public class FileDB {
         return quantityOfErrors;
     }
 
-    public int getLevelFromBase(){
+    public static int getLevelFromBase(){
         String encryptString = "";
         File level = new File("files/level.rex");
         int levelNum = 0;

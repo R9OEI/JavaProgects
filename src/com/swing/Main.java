@@ -1,16 +1,12 @@
 package com.swing;
 
-import javax.swing.*;
-import java.awt.*;
 import java.util.ArrayList;
-import java.util.Date;
-import java.util.concurrent.TimeUnit;
 
 public class Main {
     static int forTranslateCycle = 0;
     static ArrayList<String> rusArray = new ArrayList<>();
     static ArrayList <String> enArray = new ArrayList<>();
-    static Boolean isRandom = true;
+//    static Boolean isRandom = true;
     static Boolean isTranslate = false;
     static int quantityOfWords = 0;//количество слов в базе
     static int quantityOfWordsForRandom = 0;
@@ -53,22 +49,21 @@ public class Main {
 
         MainWindow mainWindow = new MainWindow();
         mainWindow.setVisible(true);
-        Functions functions = new Functions();
-        FileDB fileDb = new FileDB();
+//        FileDB fileDb = new FileDB();
 
-        quantityOfWords = fileDb.getQuantityOfWords();//
-        quantityOfRightAnswers = fileDb.getQuantityOfAnswersFromBase();
-        errors = fileDb.getQuantityOfErrorsFromBase();
-        levelValueInt = fileDb.getLevelFromBase();
-        allWordArray = fileDb.readAllFromFile(quantityOfWords);
-        rusWordArray = fileDb.getRusWords(allWordArray);
-        enWordArray = fileDb.getEnWords(allWordArray);
+        quantityOfWords = FileDB.getQuantityOfWords();//
+        quantityOfRightAnswers = FileDB.getQuantityOfAnswersFromBase();
+        errors = FileDB.getQuantityOfErrorsFromBase();
+        levelValueInt = FileDB.getLevelFromBase();
+        allWordArray = FileDB.readAllFromFile(quantityOfWords);
+        rusWordArray = FileDB.getRusWords(allWordArray);
+        enWordArray = FileDB.getEnWords(allWordArray);
         MainWindow. setlabelQuantityOrAnswersResult(quantityOfRightAnswers);//установить количество ответов
         MainWindow.setlabelerrorsAnswer(errors);//установить количество ошибок
         Functions.setIqStatus();//установить статус знаний
-        rusWordArrayForRandom = fileDb.getRusWords(allWordArray);
-        enWordArrayForRandom = fileDb.getEnWords(allWordArray);
-        quantityOfWordsForRandom = fileDb.getQuantityOfWords();
+        rusWordArrayForRandom = FileDB.getRusWords(allWordArray);
+        enWordArrayForRandom = FileDB.getEnWords(allWordArray);
+        quantityOfWordsForRandom = FileDB.getQuantityOfWords();
         Random.randomVisionFunction();//запуск рандомного вывода слов
         RandomTranslate randomTranslate = new RandomTranslate();
         randomTranslate.start();//запуск рандомного вывода перевода
@@ -76,7 +71,7 @@ public class Main {
         MainWindow.setlabelLevelValueResult(levelValueInt);//установить левел
         SetButtons.setAllButtons();
         Functions.setProgressStatus();
-        EnableChatWindow enableChatWindow = new EnableChatWindow(false);
+//        EnableChatWindow enableChatWindow = new EnableChatWindow(false);
 //        RandomVisionClass randomVision = new RandomVisionClass();
 //        Thread randomVisionThread = new Thread(randomVision);
 //        randomVisionThread.start();
